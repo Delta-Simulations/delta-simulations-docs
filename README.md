@@ -3,7 +3,7 @@
 Run npm run dev to test the website locally
 
 Run npm run deploy to build package to website
-
+`python -m mkdocs gh-deploy`
 
 
 Using 
@@ -12,5 +12,4 @@ mkdocs-material for documentation
 mkdocs serve --livereload
 
 for the live-reloading docs server
-
-pip install mkdocs-glightbox
+`python -m mkdocs serve`

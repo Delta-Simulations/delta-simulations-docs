@@ -50,3 +50,9 @@
   text-align: center;
   width: 100%;
 }
+
+/* assets/stylesheets/custom.css */
+.card-bg-uh60 { background: url('/assets/c17_bg.png') center/cover no-repeat; }
+.card-bg-c17 { background: url('/assets/c17_bg.png') center/cover no-repeat; }
+.card-bg-kc46 { background: url('/assets/c17_bg.png') center/cover no-repeat; }
+.card-bg-faq { background: url('/assets/faq-bg.jpg') center/cover no-repeat; }
