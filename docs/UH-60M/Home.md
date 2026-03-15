@@ -32,7 +32,7 @@ The **UH-60M Blackhawk** is a medium-lift utility helicopter used for transport,
 | S-70i | The civilian/international export variant, this can be customized for global customers. |
 
 
-![UH-60 Blackhawk](../Assets/HH60M.png)
+![UH-60 Blackhawk](../assets/HH60M.png)
 
 <div class="grid cards" markdown>
 

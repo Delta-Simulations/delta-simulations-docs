@@ -1,13 +1,12 @@
-site_name: Delta Simulations Docs
+site_name: Delta Simulations Documentation
 site_url: https://docs.deltasimulations.ca
-site_dir: dist/docs
 plugins:
 - glightbox
 - search
 theme:
   name: material
-  favicon: Assets/Favicon.ico
-  logo: Assets/delta.png
+  favicon: assets/Favicon.ico
+  logo: assets/delta.png
   features:
     - navigation.path
     - navigation.tracking
