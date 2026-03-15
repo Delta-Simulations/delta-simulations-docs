@@ -12,4 +12,4 @@ mkdocs-material for documentation
 mkdocs serve --livereload
 
 for the live-reloading docs server
-`python -m mkdocs serve`
+`python -m mkdocs serve --livereload`

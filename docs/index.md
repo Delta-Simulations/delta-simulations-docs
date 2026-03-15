@@ -34,7 +34,7 @@ Welcome to the Delta Simulations Documentation Hub, for any and all information 
 
 </div>
 
-## Contact
+## Contact Us
 [Please join our Discord](https://discord.gg/4pjxYUw8j7){ .md-button }
 
 For questions or support, visit our main website: [Delta Simulations](https://www.deltasimulations.ca)

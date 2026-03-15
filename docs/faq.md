@@ -6,7 +6,7 @@
 ### Downloads
 
 <div class="grid cards" markdown>
--   **Download C-17A**  
+-   **Download the C-17A**  
     Current Development Version
 
     [![GitHub latest release version](https://img.shields.io/github/v/release/Delta-Simulations/MSFS-C-17.svg?style=flat)](https://github.com/Delta-Simulations/MSFS-C-17/releases/latest)
@@ -15,7 +15,7 @@
     
     [Download the C-17A](https://github.com/Delta-Simulations/MSFS-C-17/releases/latest){ .md-button }
 
--   **Download UH-60M**  
+-   **Download the UH-60M**  
     Current Development Version
 
     [![GitHub latest release version](https://img.shields.io/github/v/release/Delta-Simulations/MSFS-H-60M.svg?style=flat)](https://github.com/Delta-Simulations/MSFS-H-60M/releases/latest)
@@ -70,6 +70,9 @@ If you would like to manually perform a clean install you have to delete the `de
 
 !!! warning "CHECK THIS FIRST"
     ## Before Reporting Issues
-    Please try removing all other mods/liveries from the community folder and test our add-on again. This will help rule out conflicts.
+    Please try removing all other mods/liveries from the community folder and test our add-on again. We also reccomend doing a [clean install](#clean-install). This will help rule out conflicts.
     
-    **Most reported issues are caused by conflicts with other mods and liveries. If this does not resolve your issue, please continue below.**
+    **Most reported issues are caused by conflicts with other mods and liveries, or from an incorrect installation. If this does not resolve your issue, please continue below.**
+
+We highly recommend joining **[Our Discord](https://discord.gg/4pjxYUw8j7)** for the fastest response time.
+Alternatively, please submit a Github Issue on the relevant repo containing the aircraft version, simulator version, and specific, reproducible steps to achieve this issue. Please be as specific as possible.
