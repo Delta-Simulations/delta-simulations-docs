@@ -1,4 +1,14 @@
 # Aircraft Systems
 
-!!! example "Coming Soon"
-    In the meanwhile, please check out the [Project Hatchet Documentation](https://uh-60m.gitbook.io/workspace/guides/multi-functional-displays) for a general understanding of aircraft operations.
+Choose a system below for cockpit labels, display indications and troubleshooting in the Delta Simulations H-60. These pages cover [V5.2.4](https://github.com/Delta-Simulations/MSFS-H-60M/releases/tag/V5.2.4).
+
+| System | In the cockpit |
+| --- | --- |
+| Engines and fuel | [Auxiliary power unit](pilot-handbook/power-and-fuel/auxiliary-power-unit.md) · [Engine power control levers](pilot-handbook/power-and-fuel/engine-power-control-levers.md) · [Main tanks and boost pumps](pilot-handbook/power-and-fuel/main-fuel-tanks-and-boost-pumps.md) · [Engine and rotor indications](pilot-handbook/flight-displays/engine-and-rotor-indications.md) |
+| Electrical and hydraulic systems | [Batteries, generators and display power](pilot-handbook/power-and-fuel/batteries-generators-and-display-power.md) · [Hydraulic leak test indications](pilot-handbook/power-and-fuel/hydraulic-leak-test-indications.md) · [Warning panel and lamp test](pilot-handbook/flight-deck/warning-panel-and-lamp-test.md) |
+| Flight controls and drivetrain | [Cyclic, collective and pedals](Aircraft%20and%20Systems/Flight%20Controls.md) · [Rotor trim](pilot-handbook/controls-and-lighting/rotor-trim-and-flight-assistance.md) · [Transmission and tail drive](pilot-handbook/airframe-and-instruments/transmission-and-tail-drive.md) · [Main and tail rotors](pilot-handbook/airframe-and-instruments/main-and-tail-rotors.md) |
+| Displays and navigation | [Display power and bezel keys](pilot-handbook/flight-displays/display-power-and-bezel-keys.md) · [Primary flight display](pilot-handbook/flight-displays/primary-flight-display.md) · [Navigation display and flight plan](pilot-handbook/flight-displays/navigation-display-and-flight-plan.md) · [Barometric and radar altitude](pilot-handbook/flight-displays/barometric-and-radar-altitude.md) · [Standby instruments](pilot-handbook/airframe-and-instruments/standby-flight-instruments.md) |
+| Lighting and cabin systems | [Cockpit and cabin lights](pilot-handbook/controls-and-lighting/cockpit-and-cabin-lighting.md) · [Exterior lights and searchlight](pilot-handbook/controls-and-lighting/exterior-lights-and-searchlight.md) · [Cabin heating and ventilation](pilot-handbook/airframe-and-instruments/cabin-heating-and-ventilation.md) · [Windshield and pitot heat](pilot-handbook/airframe-and-instruments/windshield-and-pitot-heat.md) |
+| Airframe and utility equipment | [Parking brake and tailwheel lock](pilot-handbook/flight-deck/parking-brake-and-tailwheel-lock.md) · [Doors, crew and external equipment](pilot-handbook/installation-and-equipment/doors-crew-and-external-equipment.md) · [Bambi bucket and Helitak tank](pilot-handbook/installation-and-equipment/bambi-bucket-and-helitak-tank.md) |
+
+For a first flight, follow the [cockpit walkthrough](pilot-handbook/flight-deck/first-flight-cockpit-walkthrough.md). For controller setup, aircraft loading and flight planning, see the [full UH-60M Pilot Handbook](pilot-handbook/index.md).
