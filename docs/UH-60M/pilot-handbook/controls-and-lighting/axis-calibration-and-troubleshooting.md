@@ -21,4 +21,23 @@ With the H-60 parked, check each physical axis before adjusting how the helicopt
 
 For small adjustments, change one setting and repeat the same movement. Start with direction and range, then adjust sensitivity until small movements feel manageable with your stick length and grip.
 
+## A bench check for a short-throw stick
+
+Rest the stick at centre, move it a quarter of the way to the left, then hold it there. Repeat to the right and do the same on the pitch axis. Look at the response at rest, through the first part of the movement and at the held position. These observations answer three different questions.
+
+| Observation | What it suggests | Next adjustment |
+| --- | --- | --- |
+| The input wanders while the stick is untouched but holds steady once displaced | Noise around centre | Increase the centre dead zone just enough to absorb the wandering input. |
+| The centre is steady, but a small movement commands a large response on either side | More response near centre than you want | Soften the response around centre and repeat the quarter-travel check at both ends. |
+| The input turns before the stick does or jumps back when you hold the stick still | Another axis, a repeated command, or a noisy device may be contributing | Inspect all connected devices and any external control mapping before editing the curve. |
+| Both directions move together smoothly, but one endpoint is never reached | Limited physical travel or device calibration | Compare the two endpoints in the device's own input display. Recalibrate there if it also misses the endpoint. |
+
+A long cyclic extension increases hand travel for the same movement at the base. If you change from a short grip to an extended one, first try the existing response through a few small hand movements. A curve that suited the short stick can give a noticeably slower response after fitting the extension.
+
+## Collective and pedal checks
+
+Set the collective lever to each end, then stop halfway. Watch the in-sim lever or the axis indicator at all three positions. If the ends are correct but the middle is difficult to set, look for a hardware detent or a centre dead zone carried over from an airplane profile. Move away from that detent and back to the same spot to see whether it repeats.
+
+For pedals, rest both feet lightly at centre and move each pedal through the same distance in turn. If yaw also moves when you use a toe brake, search for that particular toe input. Changing yaw sensitivity cannot remove an unwanted second binding. A centred stick and level helicopter need not give the same result in flight. The parked input check isolates the hardware from wind, trim and piloting assistance.
+
 [MSFS 2024 controller settings](https://flightsimulator.zendesk.com/hc/en-us/articles/16459737949980-Controller-Settings-FAQ)

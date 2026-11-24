@@ -1,3 +1,7 @@
+# Quick Start Guide
+
+For an apron start in the Delta H-60, work through systems preparation and engine start below. If you loaded in flight, check the [airborne preset](../pilot-handbook/power-and-fuel/apron-and-airborne-start-states.md) first.
+
 ## Configuring your Controls and Keybinds
 We strongly recommend reviewing the [Keybinds Guide](../Keybinds_Guide.md) before starting the aircraft.
 
@@ -23,7 +27,7 @@ This is a simplified start-up guide to get you in the air as fast as possible. F
 - [ ] SAS1, SAS2, TRIM, FPS switches - ON
 - [ ] Load mission data
     - On MFD, `JMVF` - Press
-    - `LOAD DTC` LSK - Press
+    - `LOAD DTS` LSK - Press
 
 ### Starting Engines
 - [ ] FUEL BOOST PUMP switches - ON
@@ -34,6 +38,10 @@ This is a simplified start-up guide to get you in the air as fast as possible. F
 - [ ] HUD - Set as desired
 
 ---
+
+## First circuit
+
+Confirm the engine and rotor readings on EICAS, set the PFD on the flying side, and follow [Departure, Cruise and Arrival](../pilot-handbook/flight-deck/departure-cruise-and-arrival.md). At the stand, use [Parking and Shutdown](Parking%20and%20Shutdown.md).
 
 ### Weapons
 

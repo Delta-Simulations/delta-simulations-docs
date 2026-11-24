@@ -23,4 +23,25 @@ To keep a working preset, use the gear next to its name to duplicate it. A name 
 
 Set the filter to **None** when looking for an unassigned command. **Assigned** is useful once you want to review the bindings already on that device. To see what a specific physical input does, choose **Search by input** and move just that axis or press just that button. If a number appears beside a binding, open its gear to see the conflicting assignments.
 
+## Example layouts
+
+**Spring stick and single throttle.** Use the two stick axes for cyclic, the twist for tail rotor and the throttle lever for collective. Reserve one thumb button for rotor trim reset. A hat can take the four directional rotor trim commands if you use them frequently. Check the hat in **Search by input** before assigning all four directions. Many stock stick profiles already use it for quick views.
+
+**Cyclic, collective and pedals.** Assign both cyclic axes on the cyclic device, collective on the lever device, and tail rotor on the pedal device. Toe brakes are two extra axes on many pedal sets. Push the left pedal forwards with your heel down, then press just its toe brake. Verify they register as different inputs before assigning yaw. A spare twist on the cyclic can stay unassigned.
+
+**Two levers on one quadrant.** Decide which lever will represent collective. Leave the other clear while checking movement. Linking the handles mechanically while one still sends an engine throttle command can make the engine and collective controls move together. If the throttle levers and collective both move, search for the physical lever on the quadrant and check its assignments in each active profile.
+
+## Hardware software and event IDs
+
+Some bindings programs use an event name instead of the action shown in the MSFS menus. These are the four continuous inputs in the MSFS SDK.
+
+| Axis | Simulator event |
+| --- | --- |
+| Cyclic, left and right | `AXIS_CYCLIC_LATERAL_SET` |
+| Cyclic, fore and aft | `AXIS_CYCLIC_LONGITUDINAL_SET` |
+| Collective | `AXIS_COLLECTIVE_SET` |
+| Tail rotor | `AXIS_TAIL_ROTOR_SET` |
+
+If the hardware sends events through another application, switch off its aircraft profile briefly when tracing duplicate inputs. **Search by input** finds assignments made inside MSFS for the selected device. Commands sent separately by a hardware application can still reach the aircraft even when the MSFS search comes up empty.
+
 [MSFS 2024 controller settings](https://flightsimulator.zendesk.com/hc/en-us/articles/16459737949980-Controller-Settings-FAQ) · [Helicopter axis commands](https://docs.flightsimulator.com/msfs2024/retail/programming-apis/key-events/helicopter-specific-events/)

@@ -22,4 +22,23 @@ The cockpit includes three quick looks to the left and three to the right, plus 
 
 The aircraft tablet has a click point labeled **EFB HIDE/SHOW**. Use it if the tablet obstructs your view, and use the corresponding mount click point to bring it back. A separate **Pilot VR** viewpoint provides the headset starting position. If you are adjusting an eye position on a monitor, select the ordinary pilot viewpoint before judging the result.
 
-[H-60 camera presets](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/PackageSources/Simobjects/Airplanes/UH60/cameras.cfg) · [Tablet visibility control](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/PackageSources/Simobjects/Airplanes/UH60/Model/UH60Mint.xml)
+## Instrument view or quick look?
+
+A **quick look** turns your view from the seat. An **instrument view** places the camera at a preset location near a panel. For reading the overhead switch labels, select **Overhead**. An upward quick look covers part of the roof from your normal eye position, so the same switch may appear farther away and at an angle. The equivalent distinction applies to the **Pedestal** preset and the downward quick look.
+
+The H-60 defines three side looks on each side. The first turns the eye diagonally forward, the second looks approximately abeam, and the third looks back past the side window. The left headings are roughly 45°, 85° and 125° from the nose. The right headings are roughly 35°, 90° and 125°. This is useful when one side of a screenshot seems different from the other despite selecting the first quick look on both sides.
+
+## A practical camera layout
+
+Use one button to return to your pilot position and a pair to cycle instrument views. Search the MSFS controller assignments for **next instrument view**, **previous instrument view** and **reset** in the camera controls. These bindings do different jobs. Cycling pilot positions changes the seat or pilot perspective. Cycling instrument views takes you through the views the aircraft defined for its panels.
+
+A custom cockpit view is convenient when your monitor, seat position or head-tracking setup puts a bezel just out of reach. Position the view where you can read the control and see the surrounding label, then assign the simulator's save and load custom camera actions to the same slot number. Use separate controls for saving and recalling so you can revisit a good view without overwriting it.
+
+| Camera problem | Way to identify it |
+| --- | --- |
+| The overhead label is readable, but your click misses the switch | Choose the **Overhead** instrument view and approach the hotspot more squarely. |
+| Changing the view seems to have moved the controls | Compare the same switch label from the pilot and copilot positions. Only the viewing angle has changed. |
+| Cycling the view takes you from seat to seat | Check if the binding says pilot position or instrument view. |
+| Pressing the saved-view shortcut puts the camera at another panel | Match the slot number on the load action to the slot used when saving. |
+
+[MSFS camera controls](https://flightsimulator.zendesk.com/hc/en-us/articles/360016003159-Camera-Video-FAQ) · [H-60 camera presets](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/PackageSources/Simobjects/Airplanes/UH60/cameras.cfg) · [Tablet visibility control](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/PackageSources/Simobjects/Airplanes/UH60/Model/UH60Mint.xml)

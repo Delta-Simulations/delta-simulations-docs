@@ -24,4 +24,23 @@ Each seat also has **UTIL LIGHT MODE** and **UTIL LIGHT POWER**. Mode changes th
 
 The cabin switch has three labeled positions, **WHITE**, **OFF** and **BLUE**. View the cabin behind the seats to see the change. The cockpit floodlight colour selector and utility light knobs affect the flight deck, so they can be left where you want them while changing the cabin lights for a passenger view or screenshot.
 
-[H-60 interior lighting controls](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/PackageSources/Simobjects/Airplanes/UH60/Model/UH60Mint.xml) · [H-60 lighting circuits and effects](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/PackageSources/Simobjects/Airplanes/UH60/systems.cfg)
+## Night lighting from the pilot seat
+
+1. Select the **Overhead** instrument view. Turn the overhead panel dimmer clockwise and look for the lettering around the switches to brighten. Turn it back down a click at a time until the letters are readable. The lettering circuit responds to the in-sim master battery, so a fully bright dimmer on a dark, unpowered cockpit is a poor test.
+2. Move to the **Pedestal** view and adjust the lower console backlight. The lower radio panels and the lettering on the collective share this setting. One is a good reference while setting up the other.
+3. Return to the pilot view. Use the floodlight if you can read lettering but cannot distinguish the unlit surfaces around it. Turning the flood knob clockwise increases its intensity. Choose a colour with the flood colour switch.
+4. Use the pilot utility light for a smaller illuminated area. Starting at zero, two clockwise steps give the utility lamp a 40 percent setting. The copilot lamp will retain its own setting. Finish by looking outside from the seat you'll actually use.
+
+## When the lighting looks wrong
+
+| What you see | Likely control or condition |
+| --- | --- |
+| Lower radio panel and collective lettering dim together | Both use the lower console setting. The overhead dimmer controls a different zone. |
+| Switching floodlight colour seems to do nothing | Bring the secondary flood brightness above zero. Watch an unlit cockpit surface rather than a backlit label. |
+| Pilot utility light changes while the copilot's light stays dark | Each seat has separate mode and power controls. Select the other seat's lamp. |
+| Cabin switch says **BLUE**, but the rear cabin looks greenish | In v5.2.4 the switch tooltip reads **BLUE** while the selected lighting effect is green. Moving through **OFF** and back to **BLUE** makes the change easier to see. |
+| Multiple annunciators light together | The **TEST ANNUN** control can illuminate the lamps for a test. End the test before reading individual AFCS or system selections. |
+
+Version 5.2.4 sets some lighting selections according to the simulator time of day when the aircraft first loads. The cabin, cockpit flood and utility lamp modes can therefore start in different positions on a daytime and a nighttime spawn. Read the controls after loading if you are comparing screenshots between flights.
+
+[Lighting and startup logic](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/PackageSources/Simobjects/Airplanes/UH60/Panel/Systems/Systems.xml) · [Panel illumination](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/PackageSources/ModelBehaviorDefs/DeltaSim-UH60/DeltaSim_Lighting_Template.xml) · [H-60 interior lighting controls](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/PackageSources/Simobjects/Airplanes/UH60/Model/UH60Mint.xml) · [H-60 lighting circuits and effects](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/PackageSources/Simobjects/Airplanes/UH60/systems.cfg)
