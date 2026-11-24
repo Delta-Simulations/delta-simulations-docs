@@ -1,0 +1,8 @@
+nav:
+    - ...
+    - Normal Procedures:
+        - Before_Start.md
+        - Cockpit Equipment Checks.md
+        - Starting Engines.md
+        - Landing.md
+        - Parking and Shutdown.md

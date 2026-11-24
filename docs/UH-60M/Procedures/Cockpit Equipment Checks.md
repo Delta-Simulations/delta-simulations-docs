@@ -1,0 +1,18 @@
+# Cockpit Equipment Checks
+- [ ] FUEL PUMP switch - APU BOOST
+- [ ] APU CONT switch - ON
+- [ ] GENERATORS APU switch - ON
+- [ ] MFDs - ON
+- [ ] Interior/Exterior lighting - Set as required
+- [ ] STBY INST switch - ARM
+- [ ] EXT PWR switch - OFF and cable disconnected
+- [ ] MASTER WARNING PANEL - <span style="color: #00aa00;">#1 ENG OUT, #2 ENG OUT, LOW ROTOR R.P.M</span> segment lights are illuminated
+- [ ] LAMPS TEST button - Press and check
+- [ ] SAS1, SAS2, TRIM, FPS switches - ON
+- [ ] Load mission data
+    - On MFD, JMVF - Press
+    - LOAD DTC soft key - Press
+- [ ] HUD - Set as desired
+- [ ] Set up MFD/FD/FMS/EFB for mission
+    - TACMAP/ND - As required
+    - EFB - Configure aircraft to mission

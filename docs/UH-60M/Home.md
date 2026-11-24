@@ -1,45 +1,35 @@
-# Getting Started
+# Welcome to the UH-60M
+
+![UH-60M](../../assets/UH60M_Landing.png)
 
 Welcome to the **UH-60M Blackhawk** documentation for Delta Simulations. This guide will help you understand the aircraft systems, flight controls, and operational procedures.
 
 ---
-## Introduction
+## Overview
 
-The **UH-60M Blackhawk** is a medium-lift utility helicopter used for transport, medical evacuation, and special operations. This guide is intended for virtual simulation purposes using Microsoft Flight Simulator and Delta Simulations’ add-ons.
+!!! warning "WARNING"
+    **FOR SIMULATION USE ONLY**
+
+    This documentation is intended for simulation purposes only, for use exclusively with the Delta Simulations UH-60M. This is not to be used in the real world.
+!!! Example "Work in Progress"
+    This documentation is an active work in progress, and is subject to change. Please report any issues on our Github, or on the Delta Simulations Discord Server. 
+The **UH-60M Black Hawk** is a medium-lift utility helicopter used for
+transport, medical evacuation, and special operations. This guide will help you learn the systems, features, and abilities this aircraft has.
+
+We have simulated several variants of this aircraft, covering military to civilian uses.** [All Simulated Variants](../UH-60M/Aircraft%20and%20Systems/Simulated_Variants.md)**
+
+To learn more, troubleshoot issues, and connect with our community, please join our Discord
+
+[Join our Discord](https://discord.gg/4pjxYUw8j7){ .md-button }
 
 ---
 
-## Aircraft Overview
+## Getting Started
+### Installation
+Please follow the [Installation Instructions](/docs/faq.md#downloads) for the UH-60M. We highly recommend installing from our Github, as it will contain the most up-to-date releases.
 
-| Feature | Description |
-|---------|-------------|
-| Simulated Version | UH-60M "Mike" w/ UES |
-| Crew | 2 Pilots + 2 Crew |
-| Passengers | Up to 11 |
-| Max Speed | 183 knots (211 mph) |
-| Service Ceiling | 19,000 ft |
-| Engines | 2 × T700-GE-701D Turboshaft |
+### Aircraft and Systems
+Before your first, flight, please familiarize yourself with the [Keybinds](/docs/UH-60M/Keybinds_Guide.md) of this aircraft.
 
-## Simulated Variants
-| Variants | Description |
-|---------|-------------|
-| UH-60M | A base "Mike" model with UES, advanced flight control system, and upgraded rotor blades. Standard configuration for troop transport and utility missions. |
-| HH-60M | 2 Pilots + 2 Crew with dedicated medical evacuation configuration, including integrated patient treatment system, equipped with an external rescue hoist. |
-| HH-60W "Jolly Green II" |  - The US Air Force's newest Combat Search and Rescue (CSAR) helicopter featuring increased fuel capacity, advanced defensive systems, and improved armor protection for personnel recovery missions. |
-| HH-60U "Ghost Hawk" | A byproduct of a test cycle, these rarely seen aircraft are used as a testbed for Skunkworks UH-60M modifications and security of the Groom Lake area. |
-| MH-60M | Piloted exclusively by the U.S. Army's 160th Special Operations Aviation Regiment (SOAR), also known as the Night Stalkers, this special operations variant is equipped with several advanced sensors and capabilities to allow clandestine operations.|
-| MH-60M "DAP" | The DAP - Direct Action Penetrator, is the weaponised variant of the 160th's MH-60M. Using external stores, it can be equipped with several weapons platforms. |
-| S-70i | The civilian/international export variant, this can be customized for global customers. |
+Then, you can follow the [Quick Start Guide](/docs/UH-60M/Procedures/Quick%20Start%20Guide.md) for your first flight.
 
-
-![UH-60 Blackhawk](../assets/HH60M.png)
-
-<div class="grid cards" markdown>
-
--   [:octicons-arrow-left-24:{ .lg .middle } Home](../index.md)
-    
-
--   [Startup :octicons-arrow-right-24:{ .lg .middle } ](Operations.md)
-    
-
-</div>

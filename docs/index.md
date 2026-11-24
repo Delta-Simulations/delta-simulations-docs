@@ -7,31 +7,23 @@ Welcome to the Delta Simulations Documentation Hub, for any and all information 
  
 <div class="grid cards" markdown>
 
-
--   __[UH-60 Blackhawk](./UH-60M/Home.md)__
+- **__[UH-60M Blackhawk](./UH-60M/Home.md)__**
 
     ---
 
     The UH-60 Blackhawk is a four-bladed, twin-engine, medium-lift utility helicopter manufactured by Sikorsky Aircraft.
 
--   __[C-17A Globemaster III]()__
+- <span class="incomplete">**C-17A Globemaster III** <span class="status-badge">Documentation Coming Soon</span></span>
 
     ---
 
-    The C-17A Globemaster III is a large military transport aircraft developed by McDonnell Douglas (now Boeing). It's capable of rapid strategic delivery of troops and cargo to main operating bases or forward operating bases.
+    <span class="incomplete">The C-17A Globemaster III is a large military transport aircraft developed by McDonnell Douglas (now Boeing). It's capable of rapid strategic delivery of troops and cargo to main operating bases or forward operating bases.</span>
 
--   __[KC-46A Pegasus]()__
-
-    ---
-
-    The KC-46A Pegasus is a military aerial refueling and strategic military transport aircraft developed by Boeing.
-
--   __[:material-help-circle: FAQ](./faq.md)__
+- <span class="incomplete">**KC-46A Pegasus** <span class="status-badge">Documentation Coming Soon</span></span>
 
     ---
 
-    Frequently asked questions about installation, features, and troubleshooting for Delta Simulations aircraft.
-
+    <span class="incomplete">The KC-46A Pegasus is a military aerial refueling and strategic military transport aircraft developed by Boeing.</span>
 </div>
 
 ## Contact Us

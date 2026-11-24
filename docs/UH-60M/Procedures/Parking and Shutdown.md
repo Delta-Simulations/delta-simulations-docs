@@ -1,0 +1,30 @@
+# Parking and Shutdown
+- [ ] TAIL WHEEL switch - As required
+- [ ] PARKING BRAKE - Set
+- [ ] FUEL BOOST PUMP switches - OFF
+- [ ] Landing gear - Chocked
+- [ ] Mission Equipment - OFF/SAFE/LOCKED as required
+- [ ] DEICE, PITOT, ANTI-ICE, and HEATER switches - OFF
+- [ ] AIR SCE HT/STRT switch - APU
+- [ ] FUEL PUMP switch - APU BOOST
+- [ ] APU CONT switch - ON
+- [ ] GENERATORS NO. 1 and NO. 2 switches - OFF
+- [ ] DTC - Store as required
+- [ ] ENG POWER CONT levers - IDLE
+- [ ] ENGINE IGNITION switch - OFF
+- [ ] BACKUP HYD PUMP switch - OFF
+- [ ] ENG POWER CONT levers - OFF
+- [ ] ENG FUEL SYS selectors - OFF
+- [ ] Rotor brake - As required at or below 40% NR
+- [ ] EGI 1 and EGI 2 switches - OFF
+- [ ] MFDs - OFF
+- [ ] STBY INST switch - OFF
+- [ ] Overhead switches - As required
+    - ANTICOLLISION/POSITION LIGHTS
+    - Lighting controls
+    - WINDSHIELD WIPER
+    - VENT BLOWER
+- [ ] GENERATORS APU switch - OFF
+- [ ] FUEL PUMP switch - OFF
+- [ ] APU CONT switch - OFF
+- [ ] BATT NO.1 and NO.2 switches - OFF
