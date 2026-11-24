@@ -12,7 +12,7 @@ For example, at an airport about 4,000 feet above sea level, the dial should rea
 
 At that same airport, **RA** should read near zero on the ground. In level flight, RA decreases as the ground rises beneath you even if barometric altitude holds steady. The navigation display also carries an RA readout, so you can check height above terrain while looking at the route.
 
-| Height over terrain in V5.2.4 | RA indication |
+| Height over terrain | RA indication |
 | --- | --- |
 | Up to about 1,050 feet | Dial and digital height. |
 | Above about 1,050 through 1,500 feet | Digital height only. |
@@ -20,4 +20,4 @@ At that same airport, **RA** should read near zero on the ground. In level fligh
 
 If the RA number disappears during a climb, check the height range before changing display settings. When crossing sloping terrain, use the vertical speed indication to check whether the helicopter itself is climbing or descending.
 
-[V5.2.4 instrument reference](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/src/instruments/src/PFD/Components/PFD/AltCircle.tsx)
+[Display source](https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/src/instruments/src/PFD/Components/PFD/AltCircle.tsx)

@@ -15,10 +15,10 @@ The **Q** and **NR** indications answer different questions. Q shows how much to
 
 ## Comparing the engines
 
-V5.2.4 feeds both sets of EICAS engine tapes from engine 1. That includes torque, NG, TGT, NP, and oil temperature and pressure. The two sides can move together even when you change only one engine in the simulator. The **Q1** and **Q2** readouts on the PFD use separate engine torque inputs and offer another place to check what the sim is reporting.
+Both sets of EICAS engine tapes read engine 1. That includes torque, NG, TGT, NP, and oil temperature and pressure. The two sides can move together even when you change only one engine in the simulator. The **Q1** and **Q2** readouts on the PFD use separate engine torque inputs and offer another place to check what the sim is reporting.
 
 ## Fuel on EICAS
 
 The **MAIN FUEL** indications show tank 1 and tank 2 by weight in pounds. **TOTAL** uses the simulator's total fuel weight. Each number rounds down to the nearest five pounds, so the two displayed tank values can add up to slightly less than the displayed total even with only the main tanks aboard.
 
-[V5.2.4 instrument reference](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/src/instruments/src/PFD/Components/EICAS/EICASTapes.tsx)
+[Display source](https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/src/instruments/src/PFD/Components/EICAS/EICASTapes.tsx)

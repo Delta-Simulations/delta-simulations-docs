@@ -18,4 +18,4 @@ In the parked cockpit, selecting **TEST** sets the test state. Moving the switch
 
 This difference is useful when troubleshooting a saved session. If both reservoir cautions and the two tail rotor servo messages appear together after you've used the switch, check the test state first. The add-on generates that group from a single test input. The messages alone do not establish that MSFS has simulated fluid loss in multiple systems.
 
-[V5.2.4 aircraft systems](https://github.com/Delta-Simulations/MSFS-H-60M/tree/V5.2.4/PackageSources/Simobjects/Airplanes/UH60)
+[H-60 systems source](https://github.com/Delta-Simulations/MSFS-H-60M/tree/a403200d72edbfb01cfe243c0c05afc6e596882f/PackageSources/Simobjects/Airplanes/UH60)

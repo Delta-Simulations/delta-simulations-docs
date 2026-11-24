@@ -12,6 +12,6 @@
 
 ## Reading the runup
 
-Check the side label as well as the value. In V5.2.4 the two sets of EICAS engine tapes share an input. The PFD's **Q1** and **Q2** use separate engine torque inputs. Compare those when checking the two engines. See [engine and rotor indications](../pilot-handbook/flight-displays/engine-and-rotor-indications.md).
+Check the side label as well as the value. The two sets of EICAS engine tapes share an input. The PFD's **Q1** and **Q2** use separate engine torque inputs. Compare those when checking the two engines. See [engine and rotor indications](../pilot-handbook/flight-displays/engine-and-rotor-indications.md).
 
 For a short flight from here, use [departure, cruise and arrival](../pilot-handbook/flight-deck/departure-cruise-and-arrival.md).

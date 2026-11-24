@@ -11,10 +11,10 @@ Select **PFD** on the bottom bezel. Use the horizon in the center to read pitch 
 
 ## Low-speed indication
 
-In V5.2.4 the digital airspeed window bottoms out at **30**. It can still read 30 while the helicopter is sitting on the ramp. For a check in the simulator, watch the scenery or your movement on the navigation display to see how quickly you're traveling over the ground.
+The digital airspeed window bottoms out at **30**. It can still read 30 while the helicopter is sitting on the ramp. For a check in the simulator, watch the scenery or your movement on the navigation display to see how quickly you're traveling over the ground.
 
 ## Heading selection
 
 Compare the current heading with the selected heading when reading the compass. For example, a current heading of 085 and a selected heading of 100 place the bug to the right of the nose. **FD1** appears when the flight director is active. The heading bug marks a reference and can move while the helicopter is stationary.
 
-[V5.2.4 instrument reference](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/src/instruments/src/PFD/Components/PFD/PFDBase.tsx)
+[Display source](https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/src/instruments/src/PFD/Components/PFD/PFDBase.tsx)

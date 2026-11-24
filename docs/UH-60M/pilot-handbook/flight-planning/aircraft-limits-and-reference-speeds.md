@@ -2,7 +2,7 @@
 
 The stock UH-60M flight model supplies values for the simulator's load and speed fields. These fields use several different units. Read the field name before comparing a number on the aircraft-selection screen with a cockpit indication.
 
-| V5.2.4 field | Stock UH-60M value | Where it matters |
+| Flight model field | Stock UH-60M value | Where it matters |
 | --- | ---: | --- |
 | Empty weight | 12,511 lb | Starting point for adding crew, cargo and fuel. |
 | Maximum gross weight | 23,000 lb | Compare with the **loaded** aircraft weight in the simulator's weight and balance screen. |
@@ -18,6 +18,6 @@ A load under the configured gross-weight figure can still produce an aft or late
 
 ## Comparing a saved flight with the stock aircraft
 
-Record the selected variant, total weight, fuel units, field elevation and weather. Use the same departure and payload for a second flight. If a cockpit gauge goes past the number you expected, record which gauge it was, its units and whether the value came from a moving pointer, digital window, configuration field or an actual warning. The released model supplies no single performance figure that accounts for all of those conditions.
+Record the selected variant, total weight, fuel units, field elevation and weather. Use the same departure and payload for a second flight. If a cockpit gauge goes past the number you expected, record which gauge it was, its units and whether the value came from a moving pointer, digital window, configuration field or an actual warning. Weight, weather and altitude all affect the performance you see.
 
-[Stock UH-60M weight and reference-speed fields](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/PackageSources/Simobjects/Airplanes/UH60/flight_model.cfg) · [Gross weight and payload stations](gross-weight-and-payload-stations.md)
+[Stock UH-60M weight and reference-speed fields](https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/PackageSources/Simobjects/Airplanes/UH60/flight_model.cfg) · [Gross weight and payload stations](gross-weight-and-payload-stations.md)

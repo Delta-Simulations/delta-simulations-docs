@@ -4,7 +4,7 @@ Gross weight tells you how much the rotor must support. Center of gravity (CG) t
 
 ## Station positions
 
-These offsets are from the stock UH-60M flight model in V5.2.4. **Forward** and **right** are positive in the simulator's coordinate system. The datum is an imaginary reference point set by the model developer. These figures apply to the simulator's loading stations.
+These offsets are from the stock UH-60M flight model. **Forward** and **right** are positive in the simulator's coordinate system. The datum is an imaginary reference point set by the model developer. These figures apply to the simulator's loading stations.
 
 | Station | Fore/aft arm | Left/right arm |
 | --- | ---: | ---: |

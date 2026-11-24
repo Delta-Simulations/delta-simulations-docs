@@ -20,4 +20,4 @@ If you normally start with the engines already running, the [start-state compari
 
 The heater and blower are downstream cabin controls. Changing the air source alone does not set a cabin temperature. For the distinction between warm air and ambient ventilation, see [cabin heating and ventilation](../airframe-and-instruments/cabin-heating-and-ventilation.md).
 
-[Engine and air-source logic](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/PackageSources/Simobjects/Airplanes/UH60/Panel/Systems/ENG_SYS.xml) · [EICAS advisory inputs](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/src/instruments/src/PFD/Components/EICAS/CASAlerts/CASAdvisory.tsx)
+[Engine and air-source logic](https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/PackageSources/Simobjects/Airplanes/UH60/Panel/Systems/ENG_SYS.xml) · [EICAS advisory inputs](https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/src/instruments/src/PFD/Components/EICAS/CASAlerts/CASAdvisory.tsx)

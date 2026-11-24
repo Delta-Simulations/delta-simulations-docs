@@ -19,6 +19,6 @@
 
 ## Reading the check results
 
-The data page reads **JMVF** on the bezel and **LOAD DTS** beside the on-screen key in V5.2.4. The status flag records a load request. For missing markers, check the [data transfer page](../pilot-handbook/flight-displays/data-transfer-and-aircraft-status.md). For missing route legs, check the [MSFS flight plan](../pilot-handbook/flight-displays/navigation-display-and-flight-plan.md).
+The data page reads **JMVF** on the bezel and **LOAD DTS** beside the on-screen key. The status flag records a load request. For missing markers, check the [data transfer page](../pilot-handbook/flight-displays/data-transfer-and-aircraft-status.md). For missing route legs, check the [MSFS flight plan](../pilot-handbook/flight-displays/navigation-display-and-flight-plan.md).
 
 The [lamp test](../pilot-handbook/flight-deck/warning-panel-and-lamp-test.md) exercises the warning panel. The [hydraulic leak test](../pilot-handbook/power-and-fuel/hydraulic-leak-test-indications.md) has its own switch and reset. After the cockpit checks, continue with [Starting Engines](Starting%20Engines.md).

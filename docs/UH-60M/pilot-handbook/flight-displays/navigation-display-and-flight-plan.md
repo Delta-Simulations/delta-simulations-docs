@@ -10,10 +10,10 @@ The box at the top always refers to helicopter heading. A route leg can run acro
 
 ## When the map looks empty
 
-- **Heading and aircraft symbol visible, no terrain picture.** The V5.2.4 ND draws its compass and route on a plain background. A chart image is not part of this display format.
+- **Heading and aircraft symbol visible, no terrain picture.** The ND draws its compass and route on a plain background. A chart image is not part of this display format.
 - **One waypoint visible, no magenta line.** The display needs two waypoint positions to draw the first leg.
 - **Route missing after editing the flight plan.** Check the departure and destination in MSFS. The display reads the plan when its instrument loads. If you're trying to isolate a route issue, start a new flight with the plan already selected.
 
 The RA readout at the right follows the same height ranges as the one on the primary flight display.
 
-[V5.2.4 instrument reference](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/src/instruments/src/PFD/Components/ND/NDBase.tsx)
+[Display source](https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/src/instruments/src/PFD/Components/ND/NDBase.tsx)

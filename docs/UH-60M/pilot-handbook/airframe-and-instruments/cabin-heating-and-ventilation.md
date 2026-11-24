@@ -10,8 +10,6 @@ The **AIR SCE HT/STRT** label in Delta's [Before Start checklist](../../Procedur
 
 ## Cabin equipment varies
 
-The manual describes more than one cabin installation. An **AUX CABIN HEATER** panel refers to supplemental cabin heat. The environmental control system (**ECS**) described for a medical cabin recirculates air and can cool it using an electrically driven refrigeration system. A panel near the rear medic seat controls that installation.
+An **AUX CABIN HEATER** panel identifies supplemental cabin heat. In a medical cabin equipped with an environmental control system (**ECS**), a separate panel near the medic seat controls cooling and recirculation.
 
 The documented simulator interaction is the air-source selector in the linked checklists. The auxiliary heater, rear-cabin ECS and temperature response depend on what the selected add-on variant implements.
-
-*Manual reference: TM 1-1520-280-10, Chapter 2, Section X, paragraphs 2-55 through 2-59.*

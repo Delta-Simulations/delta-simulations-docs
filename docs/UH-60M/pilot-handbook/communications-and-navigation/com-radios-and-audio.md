@@ -9,7 +9,7 @@ COM1 and COM2 each have an active frequency and a standby frequency in the Delta
 3. Transfer standby to active on that **same radio**. Check the digits again after transfer. On a panel that shows both frequencies, the old active frequency should now appear in standby.
 4. Select the desired radio for transmit. Set the receive selector and audio output so you can hear it. Listening to a second frequency leaves the original transmit selection in place.
 
-The add-on declares two COM radios with standby tuning. Several keys on the modeled pedestal keypad have no cockpit action in V5.2.4. If a keypad press has no effect, use the corresponding MSFS COM command or a radio panel that reads the simulator's active frequency.
+The add-on declares two COM radios with standby tuning. Several keys on the modeled pedestal keypad have no cockpit action. If a keypad press has no effect, use the corresponding MSFS COM command or a radio panel that reads the simulator's active frequency.
 
 ## Flying on VATSIM with vPilot
 
@@ -23,4 +23,4 @@ Set your headset output, microphone and push-to-talk button in vPilot. Speak at 
 
 For a handoff, leave the current controller on COM1, tune the next controller on COM2, then switch transmit when instructed. If you can hear the new controller but they cannot hear you, check which radio has **TX** before changing the frequency again. If the TX selection is correct, check push-to-talk and the microphone meter separately.
 
-[H-60 radio configuration](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/PackageSources/Simobjects/Airplanes/UH60/systems.cfg) · [vPilot audio, transmit selection and commands](https://vpilot.rosscarlson.dev/Documentation)
+[H-60 radio configuration](https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/PackageSources/Simobjects/Airplanes/UH60/systems.cfg) · [vPilot audio, transmit selection and commands](https://vpilot.rosscarlson.dev/Documentation)

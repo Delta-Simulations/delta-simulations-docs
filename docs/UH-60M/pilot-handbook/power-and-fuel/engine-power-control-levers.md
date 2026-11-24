@@ -15,8 +15,8 @@ Each lever moves independently. If engine 2's lever stays put while engine 1's m
 
 The ignition key controls master ignition. The two starter buttons control individual starters. EICAS can show **ENG 1 STARTER ON** or **ENG 2 STARTER ON** according to the starter active in MSFS. A starter indication tells you which starter is engaged. It does not by itself confirm combustion or that a generator is supplying the aircraft.
 
-In version 5.2.4, both sets of EICAS engine tapes take several readings from engine 1, including torque, gas-generator speed and oil pressure. Identical tape readings therefore cannot establish that both engines are running. The starter and engine oil messages have separate inputs for each engine. If you're reporting an issue on one side, include the lever position and the numbered messages along with a screenshot of the tapes.
+Both sets of EICAS engine tapes take several readings from engine 1, including torque, gas-generator speed and oil pressure. Identical tape readings therefore cannot establish that both engines are running. The starter and engine oil messages have separate inputs for each engine. If you're reporting an issue on one side, include the lever position and the numbered messages along with a screenshot of the tapes.
 
 The [Starting Engines checklist](https://docs.deltasimulations.ca/UH-60M/Procedures/Starting%20Engines/) gives the normal start and runup flow for the add-on.
 
-[V5.2.4 aircraft systems](https://github.com/Delta-Simulations/MSFS-H-60M/tree/V5.2.4/PackageSources/Simobjects/Airplanes/UH60)
+[H-60 systems source](https://github.com/Delta-Simulations/MSFS-H-60M/tree/a403200d72edbfb01cfe243c0c05afc6e596882f/PackageSources/Simobjects/Airplanes/UH60)

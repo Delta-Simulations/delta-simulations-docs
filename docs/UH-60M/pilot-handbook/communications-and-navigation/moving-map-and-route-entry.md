@@ -1,6 +1,6 @@
 # Moving Map and Route Entry
 
-To put a route on the **ND**, set the departure, destination and any intermediate waypoints in the simulator flight planner before loading the flight. Select **ND** and look for the line between the first two waypoints. The pedestal **DIR** key has no assigned click action in V5.2.4. Pressing it will not create a direct-to leg on the map.
+To put a route on the **ND**, set the departure, destination and any intermediate waypoints in the simulator flight planner before loading the flight. Select **ND** and look for the line between the first two waypoints. The pedestal **DIR** key has no assigned click action. Pressing it will not create a direct-to leg on the map.
 
 ## Three ways to look at the route
 
@@ -18,4 +18,4 @@ On the moving map, **ORIENT** shows **NORTH** or **HDG**. In north-up the map ho
 
 Start a short flight between two airports you know. First find the two airport identifiers on the ND. If only one waypoint is available, there is no leg to join. Switch to the moving map and locate the aircraft on the ramp. Change one setting at a time so you can distinguish a change in scale from a change in orientation. Extra markers loaded through **JMVF** are separate from the route. See [data transfer and aircraft status](../flight-displays/data-transfer-and-aircraft-status.md).
 
-[Moving map display](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/src/instruments/src/PFD/Components/TacMap/TacMap.tsx) · [Map labels](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/src/instruments/src/PFD/Components/TacMap/TacMapSideBar.tsx) · [Pedestal key bindings](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/PackageSources/ModelBehaviorDefs/DeltaSim-UH60/DeltaSim_MFD_Template.xml)
+[Moving map display](https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/src/instruments/src/PFD/Components/TacMap/TacMap.tsx) · [Map labels](https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/src/instruments/src/PFD/Components/TacMap/TacMapSideBar.tsx) · [Pedestal key bindings](https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/PackageSources/ModelBehaviorDefs/DeltaSim-UH60/DeltaSim_MFD_Template.xml)

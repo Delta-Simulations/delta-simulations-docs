@@ -6,7 +6,7 @@ The aircraft configuration supplies two NAV receivers, an ADF receiver, a marker
 
 Both NAV receivers have standby tuning. NAV1 is configured for a glideslope signal. NAV2 is configured without glideslope. For an offline receiver check, choose a station from the simulator's navigation data, tune the standby frequency on the intended receiver and transfer it to active. If you use a hardware panel, verify both the NAV receiver number and the active window. COM tuning on the same hardware controls a different pair of radios.
 
-Receiving a signal, displaying its guidance and coupling a flight control mode are three separate functions. The V5.2.4 ND draws a magenta line between flight-plan waypoints. That line can appear with either NAV receiver tuned elsewhere. The cockpit **vertical navigation** and **roll navigation** keys have no assigned click command in this build. A visible route line alone is insufficient evidence of approach capture. See [flight director and mode selectors](../flight-displays/flight-director-and-mode-selectors.md).
+Receiving a signal, displaying its guidance and coupling a flight control mode are three separate functions. The ND draws a magenta line between flight-plan waypoints. That line can appear with either NAV receiver tuned elsewhere. The cockpit **vertical navigation** and **roll navigation** keys have no assigned click command. A visible route line alone is insufficient evidence of approach capture. See [flight director and mode selectors](../flight-displays/flight-director-and-mode-selectors.md).
 
 ## Transponder on VATSIM
 
@@ -18,4 +18,4 @@ Use the four-digit code assigned to your flight. With vPilot you can enter `.x` 
 | A pedestal key moves but the client shows no change | Use the client's supported transponder command or control and read back the resulting indication. |
 | The destination appears on the map after changing frequencies | Compare the destination identifier with the simulator flight plan. Receiver tuning and route editing are independent. |
 
-[H-60 receiver configuration](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/PackageSources/Simobjects/Airplanes/UH60/systems.cfg) · [vPilot transponder controls](https://vpilot.rosscarlson.dev/Documentation)
+[H-60 receiver configuration](https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/PackageSources/Simobjects/Airplanes/UH60/systems.cfg) · [vPilot transponder controls](https://vpilot.rosscarlson.dev/Documentation)

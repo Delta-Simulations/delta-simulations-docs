@@ -1,10 +1,10 @@
 # Gross Weight and Payload Stations
 
-The stock **UH-60M 20743** in Delta Simulations V5.2.4 starts from a configured empty weight of **12,511 lb**. Its flight model lists **23,000 lb** as the maximum gross weight. The difference, **10,489 lb**, has to cover everyone on board, cargo and fuel together. Use the loaded weight shown in MSFS for the aircraft in front of you. A saved flight can start with different quantities at every station.
+The stock **UH-60M 20743** starts from a configured empty weight of **12,511 lb**. Its flight model lists **23,000 lb** as the maximum gross weight. The difference, **10,489 lb**, has to cover everyone on board, cargo and fuel together. Use the loaded weight shown in MSFS for the aircraft in front of you. A saved flight can start with different quantities at every station.
 
 ## The five payload stations
 
-Open the aircraft's fuel and payload settings and read the station weights before changing them. The table gives the defaults in the released flight model.
+Open the aircraft's fuel and payload settings and read the station weights before changing them. The table gives the defaults in the stock flight model.
 
 | Station in the model | Default load | Where the weight goes |
 | --- | ---: | --- |

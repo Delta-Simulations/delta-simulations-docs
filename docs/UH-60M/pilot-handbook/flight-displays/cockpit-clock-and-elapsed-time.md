@@ -13,4 +13,4 @@ Use **Clock Mode toggle** to select **ET**. **Clock Control** cycles through run
 
 If the time looks frozen, check the letter at the bottom. **ET** can hold a stopped time, while **C** follows the simulator clock. Switching between C and ET changes which time you see. A reset is a separate action on **Clock Control**.
 
-[V5.2.4 instrument reference](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/src/instruments/src/AP/Components/Clock/Clock.tsx)
+[Display source](https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/src/instruments/src/AP/Components/Clock/Clock.tsx)

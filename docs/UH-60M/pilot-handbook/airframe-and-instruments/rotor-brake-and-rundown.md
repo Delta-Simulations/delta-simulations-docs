@@ -14,4 +14,4 @@ If an external controller releases the brake for an instant and the lever return
 
 If the wheels roll with the rotor stopped, check the [parking brake and tailwheel lock](../flight-deck/parking-brake-and-tailwheel-lock.md). An unlocked tailwheel permits swivel while moving. It cannot hold a parked helicopter in place. When reporting an apparent brake fault, identify which object moved: blades, wheels, or the tailwheel pivot.
 
-[Cockpit rotor-brake lever](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/PackageSources/Simobjects/Airplanes/UH60/Model/UH60Mint.xml) · [Engine and rotor indications](../flight-displays/engine-and-rotor-indications.md)
+[Cockpit rotor-brake lever](https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/PackageSources/Simobjects/Airplanes/UH60/Model/UH60Mint.xml) · [Engine and rotor indications](../flight-displays/engine-and-rotor-indications.md)

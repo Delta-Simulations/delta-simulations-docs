@@ -15,6 +15,4 @@ The UH-60M has two engines and one main rotor. Each engine feeds its own input m
 
 In the add-on's [engine runup checklist](../../Procedures/Starting%20Engines.md), **Q1** and **Q2** refer to the torque supplied by each engine. **NR** refers to the speed of their shared main rotor. Two torque indications and one rotor speed are what you would expect from this arrangement.
 
-**XMSN** on a cockpit label stands for *transmission*. In the aircraft manual, **MAIN XMSN** oil temperature and pressure describe the lubricant circulating through the main gearbox. Engine oil belongs to a separate system. Delta's published checklist documents the torque, rotor speed and generator cues. The gearbox description here explains their mechanical context.
-
-*Manual reference: TM 1-1520-280-10, Chapter 2, Section VII, paragraphs 2-42 through 2-44.*
+**XMSN** on a cockpit label stands for *transmission*. **MAIN XMSN** labels refer to the main gearbox oil. Engine oil belongs to a separate system. On EICAS, the **MAIN XMSN PRESS** message follows modeled rotor speed. See [crew alerts and test indications](../flight-displays/crew-alerts-and-test-indications.md) for the inputs behind the cockpit messages.

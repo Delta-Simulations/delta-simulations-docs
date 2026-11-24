@@ -8,7 +8,7 @@ Three speed readings answer different questions during a cross-country flight.
 | True airspeed | KTAS | Use it for motion through the airmass. At altitude, true and indicated airspeed can differ. |
 | Groundspeed | kt | Use it with remaining track distance in nautical miles to calculate an arrival time. |
 
-In Delta's V5.2.4 flight model the **cruise reference is 100 KTAS** and the **maximum indicated speed field is 140 KIAS**. Microsoft uses reference-speed fields for features such as aircraft selection and speed indications. These entries describe the add-on configuration. A published cruise reference alone cannot predict your groundspeed or fuel burn.
+In the flight model, the **cruise reference is 100 KTAS** and the **maximum indicated speed field is 140 KIAS**. Microsoft uses reference-speed fields for features such as aircraft selection and speed indications. These entries describe the add-on configuration. A published cruise reference alone cannot predict your groundspeed or fuel burn.
 
 ## Time a leg with the wind
 

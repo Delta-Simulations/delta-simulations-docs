@@ -16,6 +16,6 @@ For the switch sequence in the sim, see [Starting Engines](../Procedures/Startin
 
 Look for **APU ON** and **APU GEN ON** separately. A running APU can supply bleed air with its generator disconnected. Follow the [air-source and ground-power controls](../pilot-handbook/power-and-fuel/bleed-air-and-ground-power.md) when one source appears available but another does not.
 
-Use the [power control lever guide](../pilot-handbook/power-and-fuel/engine-power-control-levers.md) for the modeled detents. Compare [Q, NG, TGT, NP and NR](../pilot-handbook/flight-displays/engine-and-rotor-indications.md) by label. The PFD's two torque indications use separate engine inputs, while both sets of V5.2.4 EICAS engine tapes read engine 1.
+Use the [power control lever guide](../pilot-handbook/power-and-fuel/engine-power-control-levers.md) for the modeled detents. Compare [Q, NG, TGT, NP and NR](../pilot-handbook/flight-displays/engine-and-rotor-indications.md) by label. The PFD's two torque indications use separate engine inputs, while both sets of EICAS engine tapes read engine 1.
 
 For a fuel check, read the quantities in both [main tanks](../pilot-handbook/power-and-fuel/main-fuel-tanks-and-boost-pumps.md) before and after a timed leg. Use total fuel consumed by both engines for [cruise endurance](../pilot-handbook/flight-planning/fuel-load-and-cruise-endurance.md).

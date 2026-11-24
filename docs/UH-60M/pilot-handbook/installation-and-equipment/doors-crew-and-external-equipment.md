@@ -12,7 +12,7 @@ Use **Aircraft** on the cockpit tablet to set up the helicopter on the ramp. The
 | **TROOP DOOR** | Moves the rear cabin doors. |
 | **GUNNER WIN** | Operates the crew window where the variant has a movable window. The HH-60M medical cabin has a sealed section here. |
 
-If a front door appears to be missing, restore it with **HIDE DOORS** before trying **DOOR L** or **DOOR R**. If the cabin doors move oddly on an older installation, the V5.2.4 release includes a correction to the troop-door animation.
+If a front door appears to be missing, restore it with **HIDE DOORS** before trying **DOOR L** or **DOOR R**. To check the rear doors, select **TROOP DOOR** and watch the cabin from the side.
 
 ## People in the cabin
 
