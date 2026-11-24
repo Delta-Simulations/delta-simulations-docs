@@ -56,3 +56,22 @@
 .card-bg-c17 { background: url('/assets/c17_bg.png') center/cover no-repeat; }
 .card-bg-kc46 { background: url('/assets/c17_bg.png') center/cover no-repeat; }
 .card-bg-faq { background: url('/assets/faq-bg.jpg') center/cover no-repeat; }
+
+.incomplete {
+    color: var(--md-default-fg-color--light);
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+.status-badge {
+    display: inline-block;
+    font-size: 0.65rem;
+    font-weight: 600;
+    padding: 3px 7px;
+    margin-left: 5px;
+    border-radius: 4px;
+    background: var(--md-default-fg-color--lightest);
+    color: var(--md-default-fg-color--light);
+    vertical-align: middle;
+}
+
