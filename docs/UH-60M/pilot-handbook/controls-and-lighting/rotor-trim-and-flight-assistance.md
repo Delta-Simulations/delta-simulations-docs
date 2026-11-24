@@ -42,4 +42,4 @@ Put fore/aft and left/right rotor trim changes on a four-way hat. Assign the sim
 
 The simulator's force trim release changes the reference between joystick input and virtual cyclic. Motor forces and physical centring on a force feedback base also depend on the device and its driver profile. A correctly functioning virtual trim button alone does not establish the force settings for a particular base.
 
-[H-60 cockpit controls](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/PackageSources/Simobjects/Airplanes/UH60/Model/UH60Mint.xml) · [MSFS helicopter trim commands](https://docs.flightsimulator.com/msfs2024/retail/programming-apis/key-events/helicopter-specific-events/) · [MSFS piloting assists](https://www.flightsimulator.com/accessibility-msfs-2024/)
+[H-60 cockpit controls](https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/PackageSources/Simobjects/Airplanes/UH60/Model/UH60Mint.xml) · [MSFS helicopter trim commands](https://docs.flightsimulator.com/msfs2024/retail/programming-apis/key-events/helicopter-specific-events/) · [MSFS piloting assists](https://www.flightsimulator.com/accessibility-msfs-2024/)

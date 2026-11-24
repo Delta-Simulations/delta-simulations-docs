@@ -16,6 +16,6 @@ Write down time and total fuel once established in cruise. Repeat the reading on
 
 ## Arrival and parking
 
-Check destination elevation and the local pressure setting. At an elevated airport, barometric altitude can still read thousands of feet at touchdown while radar altitude reads near zero. On the last part of a visual approach, cross-check movement against the landing spot outside. The PFD airspeed window bottoms out at 30 knots in this release, so it is a poor indication that all drift has stopped.
+Check destination elevation and the local pressure setting. At an elevated airport, barometric altitude can still read thousands of feet at touchdown while radar altitude reads near zero. On the last part of a visual approach, cross-check movement against the landing spot outside. The PFD airspeed window bottoms out at 30 knots, so it is a poor indication that all drift has stopped.
 
 After touchdown, complete the [landing checklist](../../Procedures/Landing.md). Use [parking and shutdown](../../Procedures/Parking%20and%20Shutdown.md) when you reach the stand. If you want to repeat the circuit with different weather or a heavier load, change one of those conditions and retain your first set of readings for comparison.

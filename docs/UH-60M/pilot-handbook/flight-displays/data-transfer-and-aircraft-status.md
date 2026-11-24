@@ -1,6 +1,6 @@
 # Data Transfer and Aircraft Status
 
-The bottom bezel labels the data page **JMVF** in V5.2.4. Its right-hand softkey reads **LOAD DTS**. Older checklists call this action *load DTC*. The on-screen status changes from **DTS – NOT LOADED** to **DTS – LOADED** when the instrument handles the load request.
+The bottom bezel labels the data page **JMVF**. Its right-hand softkey reads **LOAD DTS**. The on-screen status changes from **DTS – NOT LOADED** to **DTS – LOADED** when the instrument handles the load request.
 
 ## Waypoints and the moving map
 
@@ -12,6 +12,6 @@ To distinguish a route issue from a marker issue, first check the **ND** for the
 
 Select **EICAS**, then press **EICAS** a second time to reach **IVHMS**. The **MAIN-ADMIN** screen shows the selected model, tail-number information, an aircraft version field and DTS status. The tail-number line draws from the simulator's aircraft ID and flight number. Compare those fields with your aircraft customization if the line looks unexpected.
 
-The V5.2.4 administration display includes an **ADMIN LOGIN** label. Its published screen implements configuration and status readouts. It provides no maintenance history or component-by-component diagnostic report. For active cockpit messages, return to **EICAS** and read the [crew alert guide](crew-alerts-and-test-indications.md).
+The administration display includes an **ADMIN LOGIN** label. Its published screen implements configuration and status readouts. It provides no maintenance history or component-by-component diagnostic report. For active cockpit messages, return to **EICAS** and read the [crew alert guide](crew-alerts-and-test-indications.md).
 
-[Data page and waypoint loading](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/src/instruments/src/PFD/Components/JMVF/JMVFBase.tsx) · [IVHMS fields](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/src/instruments/src/PFD/Components/IVHMS/IVHMSBase.tsx)
+[Data page and waypoint loading](https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/src/instruments/src/PFD/Components/JMVF/JMVFBase.tsx) · [IVHMS fields](https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/src/instruments/src/PFD/Components/IVHMS/IVHMSBase.tsx)

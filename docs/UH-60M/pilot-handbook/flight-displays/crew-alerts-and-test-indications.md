@@ -1,15 +1,15 @@
 # Crew Alerts and Test Indications
 
-Read the exact message on EICAS and note when it appeared. A cold helicopter, an active lamp test, and a running helicopter can show different combinations of indications on the same screen. On this build, some labels read live MSFS values, others follow a scripted test, and some have a fixed inactive state.
+Read the exact message on EICAS and note when it appeared. A cold helicopter, an active lamp test, and a running helicopter can show different combinations of indications on the same screen. Some labels read live MSFS values, others follow a scripted test, and some have a fixed inactive state.
 
-| EICAS message | What drives it in V5.2.4 |
+| EICAS message | What drives it |
 | --- | --- |
 | **ENG 1/2 STARTER ON** | The matching engine's starter-active flag. Compare the engine number with the side being started. |
 | **ENG 1/2 OIL PRESS**, **ENG 1/2 OIL HOT** | Each side reads its own simulated oil pressure or temperature. A stopped engine can show low pressure. |
 | **BATT LOW CHARGE** | Either main battery is below the voltage threshold used by the instrument. The caption does not identify the lower battery. |
 | **MAIN XMSN PRESS** | This message follows modeled rotor speed. The display uses rotor speed as a proxy for this caption. |
 | **T/R SERVO 1 FAIL**, **BACKUP RSVR LOW** | The hydraulic leak-test flag turns these messages on during the scripted sequence. |
-| **ICE DETECTED**, **APU OIL HOT** | These particular EICAS entries have fixed inactive conditions in this release. A quiet message list provides no measurement of ice or APU oil temperature. |
+| **ICE DETECTED**, **APU OIL HOT** | These particular EICAS entries have fixed inactive conditions. A quiet message list provides no measurement of ice or APU oil temperature. |
 
 ## Reading a parked helicopter
 
@@ -19,4 +19,4 @@ The master-panel lamp test checks the annunciator lamps. The [hydraulic leak tes
 
 For an unexpected indication, capture the entire EICAS, the exact message text, the spawn location type, and the last control used. Include the aircraft and simulator versions when you report it. These details let another pilot reproduce the display state. A real-aircraft emergency response cannot be inferred from one of these simulated messages.
 
-[Left caution list](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/src/instruments/src/PFD/Components/EICAS/CASAlerts/CASWarningsLH.tsx) · [Right caution list](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/src/instruments/src/PFD/Components/EICAS/CASAlerts/CASWarningsRH.tsx)
+[Left caution list](https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/src/instruments/src/PFD/Components/EICAS/CASAlerts/CASWarningsLH.tsx) · [Right caution list](https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/src/instruments/src/PFD/Components/EICAS/CASAlerts/CASWarningsRH.tsx)

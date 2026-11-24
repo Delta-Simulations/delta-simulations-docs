@@ -16,6 +16,6 @@ Each display has its own **PWR** switch. The **BK LT** rocker adjusts a shared b
 
 If one screen is dark while the others are readable, check its **PWR** switch. If all the screens are dark after loading at a parking spot, follow the electrical setup in the [Quick Start Guide](../../Procedures/Quick%20Start%20Guide.md). When the instruments first load, a solid color can cover the readouts for a few seconds.
 
-On V5.2.4, a second press of **EICAS** from the engine page selects **IVHMS**. Press **EICAS** again to return to the engine instruments.
+A second press of **EICAS** from the engine page selects **IVHMS**. Press **EICAS** again to return to the engine instruments.
 
-[V5.2.4 instrument reference](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/PackageSources/ModelBehaviorDefs/DeltaSim-UH60/DeltaSim_MFD_Template.xml)
+[Display source](https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/PackageSources/ModelBehaviorDefs/DeltaSim-UH60/DeltaSim_MFD_Template.xml)

@@ -1,6 +1,6 @@
 # Multifunction Display Pages
 
-Use the bottom bezel to choose what appears on each screen. A screen set to PFD can stay in that format while another shows the route or engine indications. The V5.2.4 bezel and older checklist captions differ in two places. The data page is labeled **JMVF** on the bezel and its load key reads **LOAD DTS** on screen.
+Use the bottom bezel to choose what appears on each screen. A screen set to PFD can stay in that format while another shows the route or engine indications. Look for **JMVF** on the bezel and **LOAD DTS** beside its on-screen load key.
 
 | Page | Selection | What appears |
 | --- | --- | --- |

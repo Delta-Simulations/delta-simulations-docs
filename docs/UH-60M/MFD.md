@@ -1,6 +1,6 @@
 # Aircraft Systems
 
-Choose a system below for cockpit labels, display indications and troubleshooting in the Delta Simulations H-60. These pages cover [V5.2.4](https://github.com/Delta-Simulations/MSFS-H-60M/releases/tag/V5.2.4).
+Choose a system below for cockpit labels, display indications and troubleshooting in the Delta Simulations H-60.
 
 | System | In the cockpit |
 | --- | --- |

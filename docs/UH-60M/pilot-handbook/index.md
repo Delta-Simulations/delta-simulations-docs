@@ -1,6 +1,6 @@
 # UH-60M Pilot Handbook
 
-For a first flight, follow the [cockpit walkthrough](flight-deck/first-flight-cockpit-walkthrough.md) and the [departure and arrival guide](flight-deck/departure-cruise-and-arrival.md). For an unfamiliar cockpit indication, start with [Aircraft Systems](../MFD.md). Chapters describe the [Delta Simulations H-60 V5.2.4 release](https://github.com/Delta-Simulations/MSFS-H-60M/releases/tag/V5.2.4).
+For a first flight, follow the [cockpit walkthrough](flight-deck/first-flight-cockpit-walkthrough.md) and the [departure and arrival guide](flight-deck/departure-cruise-and-arrival.md). For an unfamiliar cockpit indication, start with [Aircraft Systems](../MFD.md).
 
 ## Installation and Equipment
 

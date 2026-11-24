@@ -11,7 +11,7 @@ The APU can supply electricity to the parked helicopter and bleed air for engine
 
 ## APU indications
 
-Watch the overhead APU ON light as the unit spools up. Once EICAS is available, look for **APU ON** in the advisory box. The overhead light comes on slightly earlier than the EICAS message in this build. **APU GEN ON** is a second advisory. It appears when MSFS reports that the generator is active.
+Watch the overhead APU ON light as the unit spools up. Once EICAS is available, look for **APU ON** in the advisory box. The overhead light comes on slightly earlier than the EICAS message. **APU GEN ON** is a second advisory. It appears when MSFS reports that the generator is active.
 
 If you see **APU ON** by itself, check the APU generator switch. Changing the air source selects bleed air. It will not bring a generator online. If you see both advisories but one MFD stays dark, check the power button on that screen. Each display has its own.
 
@@ -21,4 +21,4 @@ The add-on draws APU fuel from the left main tank. If the APU will not start aft
 
 Use the [Cockpit Equipment Checks](https://docs.deltasimulations.ca/UH-60M/Procedures/Cockpit%20Equipment%20Checks/) for the normal parked startup sequence.
 
-[V5.2.4 aircraft systems](https://github.com/Delta-Simulations/MSFS-H-60M/tree/V5.2.4/PackageSources/Simobjects/Airplanes/UH60)
+[H-60 systems source](https://github.com/Delta-Simulations/MSFS-H-60M/tree/a403200d72edbfb01cfe243c0c05afc6e596882f/PackageSources/Simobjects/Airplanes/UH60)

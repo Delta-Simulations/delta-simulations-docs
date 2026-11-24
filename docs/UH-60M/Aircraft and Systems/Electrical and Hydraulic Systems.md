@@ -16,4 +16,4 @@ Start with the extent of the problem. One dark MFD with a working neighbor point
 
 ## When several hydraulic messages appear together
 
-The parked leak test drives a group of reservoir, pump and servo messages from one test state. Moving the switch from **TEST** back to **NORM** leaves the state latched in V5.2.4. The [hydraulic test guide](../pilot-handbook/power-and-fuel/hydraulic-leak-test-indications.md) covers **RESET** and lists the expected messages by area of the screen. Compare any remaining message with the [EICAS caution list](../pilot-handbook/flight-displays/crew-alerts-and-test-indications.md).
+The parked leak test drives a group of reservoir, pump and servo messages from one test state. Moving the switch from **TEST** back to **NORM** leaves the state latched. The [hydraulic test guide](../pilot-handbook/power-and-fuel/hydraulic-leak-test-indications.md) covers **RESET** and lists the expected messages by area of the screen. Compare any remaining message with the [EICAS caution list](../pilot-handbook/flight-displays/crew-alerts-and-test-indications.md).

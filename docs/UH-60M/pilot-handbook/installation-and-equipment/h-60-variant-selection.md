@@ -4,7 +4,7 @@ Several H-60s share the same aircraft type in the selector. Check the full varia
 
 ## Included utility and rescue aircraft
 
-These are selection labels from the V5.2.4 package. The **HOIST** and **PROBE** columns show which equipment controls the model enables on the cockpit tablet.
+Match the full variation name on the aircraft selection screen. The **HOIST** and **PROBE** columns show which equipment controls the model enables on the cockpit tablet.
 
 | Variation | How to recognize it | HOIST | PROBE |
 | --- | --- | --- | --- |

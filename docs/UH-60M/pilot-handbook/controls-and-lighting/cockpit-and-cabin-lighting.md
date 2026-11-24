@@ -12,7 +12,7 @@ The cockpit has separate controls for backlit lettering, floodlights and the uti
 | **LIGHTED SWITCH INTENSITY** | Illumination of the lighted switches |
 | **PILOT MASTER WARNING LIGHTING** / **COPILOT MASTER WARNING LIGHTING** | Master warning lighting on the selected side |
 
-The panel knobs above move in ten-percentage-point steps in version 5.2.4. One or two clicks at a time make it easier to balance adjacent panels. If the radios and collective labels are too bright while the overhead looks right, turn down **LWR CSL BACKLIGHT** and keep the overhead setting.
+The panel knobs above move in ten-percentage-point steps. One or two clicks at a time make it easier to balance adjacent panels. If the radios and collective labels are too bright while the overhead looks right, turn down **LWR CSL BACKLIGHT** and keep the overhead setting.
 
 ## Flood and utility lights
 
@@ -38,9 +38,9 @@ The cabin switch has three labeled positions, **WHITE**, **OFF** and **BLUE**. V
 | Lower radio panel and collective lettering dim together | Both use the lower console setting. The overhead dimmer controls a different zone. |
 | Switching floodlight colour seems to do nothing | Bring the secondary flood brightness above zero. Watch an unlit cockpit surface rather than a backlit label. |
 | Pilot utility light changes while the copilot's light stays dark | Each seat has separate mode and power controls. Select the other seat's lamp. |
-| Cabin switch says **BLUE**, but the rear cabin looks greenish | In v5.2.4 the switch tooltip reads **BLUE** while the selected lighting effect is green. Moving through **OFF** and back to **BLUE** makes the change easier to see. |
+| Cabin switch says **BLUE**, but the rear cabin looks greenish | The switch tooltip reads **BLUE** while the selected lighting effect is green. Moving through **OFF** and back to **BLUE** makes the change easier to see. |
 | Multiple annunciators light together | The **TEST ANNUN** control can illuminate the lamps for a test. End the test before reading individual AFCS or system selections. |
 
-Version 5.2.4 sets some lighting selections according to the simulator time of day when the aircraft first loads. The cabin, cockpit flood and utility lamp modes can therefore start in different positions on a daytime and a nighttime spawn. Read the controls after loading if you are comparing screenshots between flights.
+When the aircraft loads, the time of day sets the initial lighting selections. The cabin, cockpit flood and utility lamp modes can therefore start in different positions on a daytime and a nighttime spawn. Read the controls after loading if you are comparing screenshots between flights.
 
-[Lighting and startup logic](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/PackageSources/Simobjects/Airplanes/UH60/Panel/Systems/Systems.xml) · [Panel illumination](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/PackageSources/ModelBehaviorDefs/DeltaSim-UH60/DeltaSim_Lighting_Template.xml) · [H-60 interior lighting controls](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/PackageSources/Simobjects/Airplanes/UH60/Model/UH60Mint.xml) · [H-60 lighting circuits and effects](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/PackageSources/Simobjects/Airplanes/UH60/systems.cfg)
+[Lighting and startup logic](https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/PackageSources/Simobjects/Airplanes/UH60/Panel/Systems/Systems.xml) · [Panel illumination](https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/PackageSources/ModelBehaviorDefs/DeltaSim-UH60/DeltaSim_Lighting_Template.xml) · [H-60 interior lighting controls](https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/PackageSources/Simobjects/Airplanes/UH60/Model/UH60Mint.xml) · [H-60 lighting circuits and effects](https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/PackageSources/Simobjects/Airplanes/UH60/systems.cfg)

@@ -16,9 +16,7 @@
     [Download the C-17A](https://github.com/Delta-Simulations/MSFS-C-17/releases/latest){ .md-button }
 
 -   **Download the UH-60M**  
-    Current Development Version
-
-    [![GitHub latest release version](https://img.shields.io/github/v/release/Delta-Simulations/MSFS-H-60M.svg?style=flat)](https://github.com/Delta-Simulations/MSFS-H-60M/releases/latest)
+    Aircraft package for Microsoft Flight Simulator on PC
 
     Click on the :octicons-package-16:```deltasimulations-uh60.zip``` file to download
     

@@ -16,8 +16,8 @@ The battery and generator controls have separate mouse targets for the normal po
 
 ## One MFD is on and another is dark
 
-Each MFD has its own power button. In version 5.2.4, MFD 2 can power up at a lower main-bus voltage than MFDs 1 and 3. One lit display on battery power can therefore be normal. Once the APU or engine generators are supplying power, check the power button on each remaining display.
+Each MFD has its own power button. MFD 2 can power up at a lower main-bus voltage than MFDs 1 and 3. One lit display on battery power can therefore be normal. Once the APU or engine generators are supplying power, check the power button on each remaining display.
 
 **APU GEN ON** confirms that the APU generator is active. **EXT PWR CONNECTED** reports the simulator's external power state. If you're comparing starts at different parking spots, note which of those advisories you have before changing any settings.
 
-[V5.2.4 aircraft systems](https://github.com/Delta-Simulations/MSFS-H-60M/tree/V5.2.4/PackageSources/Simobjects/Airplanes/UH60)
+[H-60 systems source](https://github.com/Delta-Simulations/MSFS-H-60M/tree/a403200d72edbfb01cfe243c0c05afc6e596882f/PackageSources/Simobjects/Airplanes/UH60)

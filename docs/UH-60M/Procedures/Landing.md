@@ -26,6 +26,6 @@
 
 ## Reading the instruments on final
 
-Use a fixed point on the landing area to check drift. The [HUD hover cue](../pilot-handbook/flight-displays/head-up-display-and-hover-cue.md) shows forward and sideways motion relative to the aircraft. The [PFD](../pilot-handbook/flight-displays/primary-flight-display.md) digital airspeed window has a 30-knot floor in this build. It can still say 30 on the ground.
+Use a fixed point on the landing area to check drift. The [HUD hover cue](../pilot-handbook/flight-displays/head-up-display-and-hover-cue.md) shows forward and sideways motion relative to the aircraft. The [PFD](../pilot-handbook/flight-displays/primary-flight-display.md) digital airspeed window has a 30-knot floor. It can still say 30 on the ground.
 
 At an elevated airport the barometric altimeter continues to show field elevation after touchdown. Use the [radar altitude indication](../pilot-handbook/flight-displays/barometric-and-radar-altitude.md) to compare height over the landing surface. At the stand, continue with [parking and shutdown](Parking%20and%20Shutdown.md).

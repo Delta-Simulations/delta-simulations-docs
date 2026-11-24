@@ -18,4 +18,4 @@ The colored bars have a maximum height. At higher loads you can change the quant
 
 An engine boost-pump advisory tells you the switch is on. Quantity is a separate indication, and neither boost-pump switch transfers fuel to the other tank. If you're trying to reproduce a fuel problem in the sim, note the left and right quantities, each selector position and the numbered boost-pump advisories. Two aircraft with the same **TOTAL** can have very different fuel distributions.
 
-[V5.2.4 aircraft systems](https://github.com/Delta-Simulations/MSFS-H-60M/tree/V5.2.4/PackageSources/Simobjects/Airplanes/UH60)
+[H-60 systems source](https://github.com/Delta-Simulations/MSFS-H-60M/tree/a403200d72edbfb01cfe243c0c05afc6e596882f/PackageSources/Simobjects/Airplanes/UH60)

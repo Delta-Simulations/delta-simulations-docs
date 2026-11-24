@@ -1,6 +1,6 @@
 # Fuel Load and Cruise Endurance
 
-Delta's V5.2.4 UH-60M flight model defines **two 180 US gal main tanks**. With both at the same percentage, 100% is 360 US gal total, 50% is 180 US gal total and 25% is 90 US gal total. Read both tank quantities when one has been edited independently. A half-full left tank and an empty right tank hold only 90 US gal between them.
+The UH-60M flight model defines **two 180 US gal main tanks**. With both at the same percentage, 100% is 360 US gal total, 50% is 180 US gal total and 25% is 90 US gal total. Read both tank quantities when one has been edited independently. A half-full left tank and an empty right tank hold only 90 US gal between them.
 
 Use the same units for fuel on board and fuel burn. If the fuel quantity is in pounds, use pounds per hour. If you take the quantity in gallons, measure gallons per hour. When a display gives a separate flow for each engine, add both flows before calculating endurance.
 

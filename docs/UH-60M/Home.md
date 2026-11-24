@@ -2,7 +2,7 @@
 
 ![Delta Simulations UH-60M on the ramp](../assets/UH60M_Landing.png)
 
-Pilot documentation for the Delta Simulations H-60 family in Microsoft Flight Simulator. Cockpit labels, bindings and equipment descriptions in the handbook refer to V5.2.4 on PC.
+Pilot documentation for the Delta Simulations H-60 family in Microsoft Flight Simulator.
 
 ## First flight
 
@@ -15,7 +15,7 @@ Pilot documentation for the Delta Simulations H-60 family in Microsoft Flight Si
 
 - [Aircraft Systems](MFD.md) groups the controls and indications by system.
 - [UH-60M Pilot Handbook](pilot-handbook/index.md) lists every handbook chapter.
-- [Manual references](Aircraft%20and%20Systems/Manual%20Reference.md) matches the operator manual's subjects to their simulator coverage.
+- The [UH-60M topic index](Aircraft%20and%20Systems/Topic%20Index.md) lists the pages for flight planning, cockpit procedures and troubleshooting.
 - [Downloads and support](../faq.md#downloads) includes the release and project support channels.
 
 [Delta Simulations Discord](https://discord.gg/4pjxYUw8j7){ .md-button }
