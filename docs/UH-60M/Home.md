@@ -33,3 +33,15 @@ Before your first, flight, please familiarize yourself with the [Keybinds](/docs
 
 Then, you can follow the [Quick Start Guide](/docs/UH-60M/Procedures/Quick%20Start%20Guide.md) for your first flight.
 
+
+
+## Systems reference
+
+These pages summarize the aircraft systems represented in the simulator:
+
+- [Manual Reference and Scope](Aircraft%20and%20Systems/Manual%20Reference.md)
+- [Flight Controls](Aircraft%20and%20Systems/Flight%20Controls.md)
+- [Powerplant and Fuel](Aircraft%20and%20Systems/Powerplant%20and%20Fuel.md)
+- [Electrical and Hydraulic Systems](Aircraft%20and%20Systems/Electrical%20and%20Hydraulic%20Systems.md)
+- [Display Systems](Aircraft%20and%20Systems/Display%20Systems.md)
+- [Utility and Mission Equipment](Aircraft%20and%20Systems/Utility%20and%20Mission%20Equipment.md)
