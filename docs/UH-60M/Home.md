@@ -6,7 +6,7 @@ Pilot documentation for the Delta Simulations H-60 family in Microsoft Flight Si
 
 ## First flight
 
-1. [Install the aircraft](pilot-handbook/installation-and-equipment/installation-and-updates.md) and [select a variant](Aircraft%20and%20Systems/Simulated_Variants.md).
+1. [Install the aircraft](../faq.md#installation) and [select a variant](Aircraft%20and%20Systems/Simulated_Variants.md).
 2. [Set up the cyclic, collective and pedals](pilot-handbook/controls-and-lighting/helicopter-controller-profiles.md). The [keybinds guide](Keybinds_Guide.md) lists the aircraft's special assignments.
 3. Follow the [quick start](Procedures/Quick%20Start%20Guide.md) or begin at the [full before-start checklist](Procedures/Before_Start.md).
 4. Fly a short [departure, cruise and arrival](pilot-handbook/flight-deck/departure-cruise-and-arrival.md), then use [parking and shutdown](Procedures/Parking%20and%20Shutdown.md).

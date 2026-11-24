@@ -27,7 +27,7 @@ __Please follow ALL steps in this section if you encounter any issues with insta
 Open __and extract__ the zip that you downloaded from one of the links above, and drag the `deltasimulations-XXX` folder inside the zip into your Community folder.
 
 See below for the location of your Community folder.
-For simulator-specific H-60 package locations and an installation check, see [Installation and Updates](UH-60M/pilot-handbook/installation-and-equipment/installation-and-updates.md).
+
 
 ### Community Folder
 
@@ -55,7 +55,7 @@ It is located in:
 ### Troubleshooting
 If the above methods do not work:
 
-![Image title](Assets/find-community-folder.png){ width="full" }
+![Image title](assets/find-community-folder.png){ width="full" }
 To find the Community folder that MSFS is using, please follow these steps:
 
 1. Go to your General Settings in MSFS and activate Developer Mode.

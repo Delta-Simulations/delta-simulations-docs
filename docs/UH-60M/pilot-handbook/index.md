@@ -4,7 +4,7 @@ For a first flight, follow the [cockpit walkthrough](flight-deck/first-flight-co
 
 ## Installation and Equipment
 
-- [Installation and Updates](installation-and-equipment/installation-and-updates.md)
+- [Installation and Updates](../faq.md#installation)
 - [H-60 Variant Selection](installation-and-equipment/h-60-variant-selection.md)
 - [Cockpit Tablet and Map](installation-and-equipment/cockpit-tablet-and-map.md)
 - [Doors, Crew and External Equipment](installation-and-equipment/doors-crew-and-external-equipment.md)

@@ -1,5 +1,5 @@
 # H-60 Variants
-
+## Military Models
 === "UH-60M · Mike"
     ![UH-60M](../../assets/UH60M.png)
     A base "Mike" model with UES, advanced flight control system, and upgraded rotor blades. Standard configuration for troop transport and utility missions.
@@ -7,7 +7,7 @@
     Also simulated is a HIRSS equipped Mike model.
 
 === "HH-60M · Dustoff"
-    ![HH-60M](../../Assets/HH60M.png)
+    ![HH-60M](../../assets/HH60M.png)
 
     2 Pilots + 2 Crew with dedicated medical evacuation configuration, including integrated patient treatment system, equipped with an external rescue hoist.
 
@@ -27,6 +27,7 @@
     ![MH-60M DAP](../../assets/MH60M_DAP.png)
     The DAP - Direct Action Penetrator, is the weaponised variant of the 160th's MH-60M. Using external stores, it can be equipped with several weapons platforms.
 
+## Civilian Models
 === "S-70i"
     ![S-70i](../../assets/s70i.png)
     The civilian/international export variant, this can be customized for global customers.
