@@ -35,6 +35,8 @@ Then, you can follow the [Quick Start Guide](/docs/UH-60M/Procedures/Quick%20Sta
 
 ## Systems reference
 
+Open the [UH-60M Pilot Handbook](pilot-handbook/index.md) for cockpit controls, aircraft systems, flight planning and troubleshooting.
+
 - [Cyclic, Collective and Pedals](Aircraft%20and%20Systems/Flight%20Controls.md)
 - [Engines, Fuel and APU](Aircraft%20and%20Systems/Powerplant%20and%20Fuel.md)
 - [Electrical Power and Hydraulics](Aircraft%20and%20Systems/Electrical%20and%20Hydraulic%20Systems.md)
