@@ -1,18 +1,11 @@
-# Utility and Mission Equipment
+# Cabin, Hoist and Utility Equipment
 
-!!! warning "For simulation only"
-    This overview is for the Delta Simulations add-on. It does not provide real-world loading, rigging, rescue, medical, or mission procedures.
+Cabin equipment depends on which H-60 you select in MSFS.
 
-Depending on the aircraft variant and add-on configuration, the simulation may include:
+| Variant | Equipment |
+| --- | --- |
+| **UH-60M “Mike”** | Utility cabin for passengers and cargo. |
+| **HH-60M “Dustoff”** | Medical cabin with a patient treatment system and an external rescue hoist. |
+| **S-70i “Helitak”** | Firefighting tank. The [Keybinds Guide](../Keybinds_Guide.md) lists its release binding under **Bambi/Helitak Release**. |
 
-- Cabin and cargo-area equipment
-- External cargo-hook controls
-- Rescue-hoist controls
-- Medical-evacuation interior options
-- Auxiliary equipment controlled from cockpit panels
-
-The add-on may represent only selected equipment, and some controls may be visual or nonfunctional. Check the in-simulator EFB and release notes for the features included in your installed version.
-
-## Source
-
-Summarized from *TM 1-1520-280-10*, Chapter 4, including cargo-handling, medical-interior, and mission-equipment sections.
+The [Variants page](Simulated_Variants.md) has photos of the different configurations. The aircraft manual also covers the external cargo hook. Check your installed version for interactive hook and hoist support.
