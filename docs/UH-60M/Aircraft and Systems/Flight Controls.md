@@ -1,26 +1,13 @@
-# Flight Controls
+# Cyclic, Collective and Pedals
 
-!!! warning "For simulation only"
-    This page summarizes the UH-60M for use with the Delta Simulations add-on. It is not real-world pilot training or a checklist for operating an aircraft.
+Set up these axes in your MSFS helicopter controls profile. The pilot and copilot have the same primary controls.
 
-## Pilot controls
-
-The cockpit has paired pilot and copilot controls. The primary controls map to the helicopter axes:
-
-| Control | Simulator input | Effect |
+| Cockpit control | Axis | What it does |
 | --- | --- | --- |
-| Cyclic | Cyclic pitch and roll | Controls the rotor-disc tilt and helicopter attitude |
-| Collective | Collective axis | Changes main-rotor blade pitch together |
-| Pedals | Rudder/yaw axis | Controls heading through the tail rotor |
+| Cyclic | Pitch and roll | Tilts the rotor disc forward, aft, left or right. |
+| Collective | Collective | Changes the pitch of all main rotor blades together. |
+| Pedals | Yaw | Changes tail rotor thrust to swing the nose left or right. |
 
-Bind and calibrate the axes in Microsoft Flight Simulator. If you use a helicopter cyclic, check that the control range and centering work as expected in the add-on.
+Move one control at a time and watch the matching control in the cockpit. If the nose turns the wrong way when you press a pedal, check the direction of the yaw axis in your profile.
 
-## Stability and flight director
-
-The aircraft’s automatic flight-control equipment includes stability augmentation, trim, stabilator control, and flight-director functions. What is available in the simulator depends on the add-on version and the selected aircraft configuration.
-
-For a first-flight walkthrough, see the [Quick Start Guide](../Procedures/Quick%20Start%20Guide.md).
-
-## Source
-
-Summarized from *TM 1-1520-280-10*, Chapter 2, Section V, “Flight Controls” (beginning at page 2-40).
+**SAS** is the stability augmentation system. It damps unwanted motion. You'll also see **TRIM** and **FPS** (flight path stabilization) in the [cockpit equipment checks](../Procedures/Cockpit%20Equipment%20Checks.md).
