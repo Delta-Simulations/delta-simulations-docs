@@ -2981,34 +2981,6 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../Aircraft%20and%20Systems/Manual%20Reference/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    UH-60M Manual References
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
       <a href="../../../Aircraft%20and%20Systems/Multi%20Function%20Display/" class="md-nav__link">
         
   
@@ -3073,6 +3045,34 @@
     
   
     H-60 Variants
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Aircraft%20and%20Systems/Topic%20Index/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    UH-60M Topic Index
   
 
     
@@ -3231,14 +3231,14 @@
 
 
 <h1 id="data-transfer-and-aircraft-status">Data Transfer and Aircraft Status</h1>
-<p>The bottom bezel labels the data page <strong>JMVF</strong> in V5.2.4. Its right-hand softkey reads <strong>LOAD DTS</strong>. Older checklists call this action <em>load DTC</em>. The on-screen status changes from <strong>DTS – NOT LOADED</strong> to <strong>DTS – LOADED</strong> when the instrument handles the load request.</p>
+<p>The bottom bezel labels the data page <strong>JMVF</strong>. Its right-hand softkey reads <strong>LOAD DTS</strong>. The on-screen status changes from <strong>DTS – NOT LOADED</strong> to <strong>DTS – LOADED</strong> when the instrument handles the load request.</p>
 <h2 id="waypoints-and-the-moving-map">Waypoints and the moving map</h2>
 <p>The data page clears its existing markers, then reads the package's waypoint file. Each data row supplies a name, latitude and longitude. A fourth field can identify the marker type. Empty rows and rows without usable coordinates are skipped. Repeating the load replaces the marker set for that operation.</p>
 <p>To distinguish a route issue from a marker issue, first check the <strong>ND</strong> for the departure and destination selected in MSFS. Then select <strong>JMVF</strong>, use <strong>LOAD DTS</strong>, and inspect the map at a scale and location where the expected marker would be visible. The status flag is set when the load is requested. It can say <strong>LOADED</strong> even when a row was skipped or a file failed to load. The status alone cannot confirm an individual waypoint or change your MSFS flight plan.</p>
 <h2 id="ivhms-administration-screen">IVHMS administration screen</h2>
 <p>Select <strong>EICAS</strong>, then press <strong>EICAS</strong> a second time to reach <strong>IVHMS</strong>. The <strong>MAIN-ADMIN</strong> screen shows the selected model, tail-number information, an aircraft version field and DTS status. The tail-number line draws from the simulator's aircraft ID and flight number. Compare those fields with your aircraft customization if the line looks unexpected.</p>
-<p>The V5.2.4 administration display includes an <strong>ADMIN LOGIN</strong> label. Its published screen implements configuration and status readouts. It provides no maintenance history or component-by-component diagnostic report. For active cockpit messages, return to <strong>EICAS</strong> and read the <a href="../crew-alerts-and-test-indications/">crew alert guide</a>.</p>
-<p><a href="https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/src/instruments/src/PFD/Components/JMVF/JMVFBase.tsx">Data page and waypoint loading</a> · <a href="https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/src/instruments/src/PFD/Components/IVHMS/IVHMSBase.tsx">IVHMS fields</a></p>
+<p>The administration display includes an <strong>ADMIN LOGIN</strong> label. Its published screen implements configuration and status readouts. It provides no maintenance history or component-by-component diagnostic report. For active cockpit messages, return to <strong>EICAS</strong> and read the <a href="../crew-alerts-and-test-indications/">crew alert guide</a>.</p>
+<p><a href="https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/src/instruments/src/PFD/Components/JMVF/JMVFBase.tsx">Data page and waypoint loading</a> · <a href="https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/src/instruments/src/PFD/Components/IVHMS/IVHMSBase.tsx">IVHMS fields</a></p>
 
 
 

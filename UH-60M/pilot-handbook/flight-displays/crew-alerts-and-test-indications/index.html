@@ -2970,34 +2970,6 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../Aircraft%20and%20Systems/Manual%20Reference/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    UH-60M Manual References
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
       <a href="../../../Aircraft%20and%20Systems/Multi%20Function%20Display/" class="md-nav__link">
         
   
@@ -3062,6 +3034,34 @@
     
   
     H-60 Variants
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Aircraft%20and%20Systems/Topic%20Index/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    UH-60M Topic Index
   
 
     
@@ -3220,12 +3220,12 @@
 
 
 <h1 id="crew-alerts-and-test-indications">Crew Alerts and Test Indications</h1>
-<p>Read the exact message on EICAS and note when it appeared. A cold helicopter, an active lamp test, and a running helicopter can show different combinations of indications on the same screen. On this build, some labels read live MSFS values, others follow a scripted test, and some have a fixed inactive state.</p>
+<p>Read the exact message on EICAS and note when it appeared. A cold helicopter, an active lamp test, and a running helicopter can show different combinations of indications on the same screen. Some labels read live MSFS values, others follow a scripted test, and some have a fixed inactive state.</p>
 <table>
 <thead>
 <tr>
 <th>EICAS message</th>
-<th>What drives it in V5.2.4</th>
+<th>What drives it</th>
 </tr>
 </thead>
 <tbody>
@@ -3251,7 +3251,7 @@
 </tr>
 <tr>
 <td><strong>ICE DETECTED</strong>, <strong>APU OIL HOT</strong></td>
-<td>These particular EICAS entries have fixed inactive conditions in this release. A quiet message list provides no measurement of ice or APU oil temperature.</td>
+<td>These particular EICAS entries have fixed inactive conditions. A quiet message list provides no measurement of ice or APU oil temperature.</td>
 </tr>
 </tbody>
 </table>
@@ -3259,7 +3259,7 @@
 <p>With displays powered and engines stopped, look at the engine indications alongside the caution columns. During a start, note which starter message changes first and whether the engine readouts change on the same side. When comparing two screenshots, match the start state as well as the position of the switches.</p>
 <p>The master-panel lamp test checks the annunciator lamps. The <a href="../../power-and-fuel/hydraulic-leak-test-indications/">hydraulic leak test</a> drives a separate set of messages. After a test finishes, read EICAS again before treating a message captured during the test as a persistent fault. The left and right caution lists each draw up to six active entries in a fixed order, so a crowded column can hide lower entries.</p>
 <p>For an unexpected indication, capture the entire EICAS, the exact message text, the spawn location type, and the last control used. Include the aircraft and simulator versions when you report it. These details let another pilot reproduce the display state. A real-aircraft emergency response cannot be inferred from one of these simulated messages.</p>
-<p><a href="https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/src/instruments/src/PFD/Components/EICAS/CASAlerts/CASWarningsLH.tsx">Left caution list</a> · <a href="https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/src/instruments/src/PFD/Components/EICAS/CASAlerts/CASWarningsRH.tsx">Right caution list</a></p>
+<p><a href="https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/src/instruments/src/PFD/Components/EICAS/CASAlerts/CASWarningsLH.tsx">Left caution list</a> · <a href="https://github.com/Delta-Simulations/MSFS-H-60M/blob/a403200d72edbfb01cfe243c0c05afc6e596882f/src/instruments/src/PFD/Components/EICAS/CASAlerts/CASWarningsRH.tsx">Right caution list</a></p>
 
 
 
