@@ -6,3 +6,7 @@ nav:
   - navigation-display-and-flight-plan.md
   - engine-and-rotor-indications.md
   - cockpit-clock-and-elapsed-time.md
+  - flight-director-and-mode-selectors.md
+  - data-transfer-and-aircraft-status.md
+  - crew-alerts-and-test-indications.md
+  - head-up-display-and-hover-cue.md

@@ -28,3 +28,9 @@
 - [ ] FUEL PUMP switch - OFF
 - [ ] APU CONT switch - OFF
 - [ ] BATT NO.1 and NO.2 switches - OFF
+
+## Before ending the simulator session
+
+During rundown, compare the **NR** indication with the [rotor brake lever](../pilot-handbook/airframe-and-instruments/rotor-brake-and-rundown.md). Wheel braking, tailwheel lock and rotor braking use separate controls. If the helicopter moves after parking, record whether the wheels rolled, the tailwheel pivoted, or only the blades kept turning.
+
+For an unexpected cockpit state on your next load, check whether you selected a parking spot or an airborne start. The [start-state table](../pilot-handbook/power-and-fuel/apron-and-airborne-start-states.md) lists what the two presets initialize.

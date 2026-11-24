@@ -23,4 +23,23 @@ For the MSFS **force trim release** function, use a momentary button you can hol
 
 MSFS 2024 lists **Assisted cyclic**, **Assisted tail rotor** and **Assisted collective** as separate piloting assists. When comparing how two profiles handle, use the same assistance settings for both flights. A pilot checking a new set of pedals, for example, can compare the same short flight with just the tail rotor assistance changed. That makes the effect easier to distinguish from a new yaw response curve.
 
+## Reading the panel
+
+The four AFCS pushbuttons have separate annunciators. With the panel powered and the annunciator test off, click **SAS 1** once and watch the SAS 1 annunciator. A second click returns that channel to its previous selection. The other channel, **SAS 2**, has its own button and annunciator. **FPS** and **TRIM** work the same way as panel selections. If the start configuration has already selected them, clicking each one from memory will deselect it. Read the indication before changing it.
+
+The rotor trim reset is a momentary command. It clears a trim offset without changing those four panel selections. This is useful on a desktop stick after a previous session left an unexpected pitch or roll bias. A trim reset can change the commanded cyclic offset immediately. Try it in a parked or otherwise controlled simulator setup when first identifying the binding.
+
+## A spring-stick setup
+
+Put fore/aft and left/right rotor trim changes on a four-way hat. Assign the simulator's **force trim release** to a grip button that reports both press and release. Leave **rotor trim reset** on a separate button. The three functions give a hat for small corrections, a held button for changing the stick's physical reference, and a way to recover the original trim. If your stick has only one hat, check whether the camera is still assigned to it.
+
+| Symptom | What to look at | What to change |
+| --- | --- | --- |
+| The in-sim cyclic stops following the hand controller after a trim input | A maintained switch or button profile can keep force trim release active | Use a momentary press-and-release binding. Verify the stick tracks again after release. |
+| Moving the trim hat pans the camera | Search by the physical hat direction on the stick | Assign the view elsewhere or use a separate profile for the hat. |
+| Touching reset repeatedly changes the AFCS trim annunciator | The button is operating the cockpit AFCS trim toggle | Use the rotor trim reset command when the goal is to clear pitch and roll bias. |
+| Two pilots get different behaviour with the same joystick preset | Compare cyclic, tail rotor and collective assistance settings separately | Repeat with the same assistance setup, weather and starting state before comparing curves. |
+
+The simulator's force trim release changes the reference between joystick input and virtual cyclic. Motor forces and physical centring on a force feedback base also depend on the device and its driver profile. A correctly functioning virtual trim button alone does not establish the force settings for a particular base.
+
 [H-60 cockpit controls](https://github.com/Delta-Simulations/MSFS-H-60M/blob/V5.2.4/PackageSources/Simobjects/Airplanes/UH60/Model/UH60Mint.xml) · [MSFS helicopter trim commands](https://docs.flightsimulator.com/msfs2024/retail/programming-apis/key-events/helicopter-specific-events/) · [MSFS piloting assists](https://www.flightsimulator.com/accessibility-msfs-2024/)

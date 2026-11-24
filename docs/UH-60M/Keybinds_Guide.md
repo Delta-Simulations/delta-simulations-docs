@@ -1,6 +1,10 @@
 # Keybinds Guide
 
-We highly recommend that you bind as many features to a physical control as possible. 
+## Primary flight controls
+
+Assign **cyclic longitudinal**, **cyclic lateral**, **collective** and **tail rotor** to continuous axes. On a throttle quadrant used as a collective, select the collective axis. If both pedals and a twist grip control yaw, keep the assignment on the device you intend to fly with.
+
+Use [Helicopter Controller Profiles](pilot-handbook/controls-and-lighting/helicopter-controller-profiles.md) for the full setup, [Axis Calibration and Troubleshooting](pilot-handbook/controls-and-lighting/axis-calibration-and-troubleshooting.md) for reversed or competing inputs, and [Exterior Lights and Searchlight](pilot-handbook/controls-and-lighting/exterior-lights-and-searchlight.md) to check the light movement from outside. 
 
 ---
 ## Weapons and Payloads

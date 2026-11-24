@@ -1,45 +1,21 @@
-# Welcome to the UH-60M
+# UH-60M Black Hawk
 
-![UH-60M](../../assets/UH60M_Landing.png)
+![Delta Simulations UH-60M on the ramp](../assets/UH60M_Landing.png)
 
-Welcome to the **UH-60M Blackhawk** documentation for Delta Simulations. This guide will help you understand the aircraft systems, flight controls, and operational procedures.
+Pilot documentation for the Delta Simulations H-60 family in Microsoft Flight Simulator. Cockpit labels, bindings and equipment descriptions in the handbook refer to V5.2.4 on PC.
 
----
-## Overview
+## First flight
 
-!!! warning "WARNING"
-    **FOR SIMULATION USE ONLY**
+1. [Install the aircraft](pilot-handbook/installation-and-equipment/installation-and-updates.md) and [select a variant](Aircraft%20and%20Systems/Simulated_Variants.md).
+2. [Set up the cyclic, collective and pedals](pilot-handbook/controls-and-lighting/helicopter-controller-profiles.md). The [keybinds guide](Keybinds_Guide.md) lists the aircraft's special assignments.
+3. Follow the [quick start](Procedures/Quick%20Start%20Guide.md) or begin at the [full before-start checklist](Procedures/Before_Start.md).
+4. Fly a short [departure, cruise and arrival](pilot-handbook/flight-deck/departure-cruise-and-arrival.md), then use [parking and shutdown](Procedures/Parking%20and%20Shutdown.md).
 
-    This documentation is intended for simulation purposes only, for use exclusively with the Delta Simulations UH-60M. This is not to be used in the real world.
-!!! Example "Work in Progress"
-    This documentation is an active work in progress, and is subject to change. Please report any issues on our Github, or on the Delta Simulations Discord Server. 
-The **UH-60M Black Hawk** is a medium-lift utility helicopter used for
-transport, medical evacuation, and special operations. This guide will help you learn the systems, features, and abilities this aircraft has.
+## Cockpit reference
 
-We have simulated several variants of this aircraft, covering military to civilian uses.** [All Simulated Variants](../UH-60M/Aircraft%20and%20Systems/Simulated_Variants.md)**
+- [Aircraft Systems](MFD.md) groups the controls and indications by system.
+- [UH-60M Pilot Handbook](pilot-handbook/index.md) lists every handbook chapter.
+- [Manual references](Aircraft%20and%20Systems/Manual%20Reference.md) matches the operator manual's subjects to their simulator coverage.
+- [Downloads and support](../faq.md#downloads) includes the release and project support channels.
 
-To learn more, troubleshoot issues, and connect with our community, please join our Discord
-
-[Join our Discord](https://discord.gg/4pjxYUw8j7){ .md-button }
-
----
-
-## Getting Started
-### Installation
-Please follow the [Installation Instructions](/docs/faq.md#downloads) for the UH-60M. We highly recommend installing from our Github, as it will contain the most up-to-date releases.
-
-### Aircraft and Systems
-Before your first, flight, please familiarize yourself with the [Keybinds](/docs/UH-60M/Keybinds_Guide.md) of this aircraft.
-
-Then, you can follow the [Quick Start Guide](/docs/UH-60M/Procedures/Quick%20Start%20Guide.md) for your first flight.
-
-## Systems reference
-
-Open the [UH-60M Pilot Handbook](pilot-handbook/index.md) for cockpit controls, aircraft systems, flight planning and troubleshooting.
-
-- [Cyclic, Collective and Pedals](Aircraft%20and%20Systems/Flight%20Controls.md)
-- [Engines, Fuel and APU](Aircraft%20and%20Systems/Powerplant%20and%20Fuel.md)
-- [Electrical Power and Hydraulics](Aircraft%20and%20Systems/Electrical%20and%20Hydraulic%20Systems.md)
-- [Cockpit Displays](Aircraft%20and%20Systems/Display%20Systems.md)
-- [Cabin, Hoist and Utility Equipment](Aircraft%20and%20Systems/Utility%20and%20Mission%20Equipment.md)
-- [UH-60M Manual References](Aircraft%20and%20Systems/Manual%20Reference.md)
+[Delta Simulations Discord](https://discord.gg/4pjxYUw8j7){ .md-button }

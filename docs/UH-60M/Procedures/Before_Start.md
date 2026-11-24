@@ -18,7 +18,7 @@
     - *ESIS audio tone will activate*
 - [ ] STBY INST switch - OFF
     - *ESIS audio tone will go away*
-- [ ] BATT NO. 1 and ABTT NO. 2 - TEST
+- [ ] BATT NO. 1 and BATT NO. 2 - TEST
     - <span style="color: #00aa00;">BATT GOOD</span> status appears
 - [ ] APU GENERATOR switch - OFF
 - [ ] NO. 1 and NO.2 GENERATOR switches - ON
@@ -31,3 +31,5 @@
 - [ ] ENG EMER OFF T-handles - Full forward
 !!! info "Beeping tones will be heard during the ICS start up checks"
 - [ ] BATT NO. 1 and NO. 2 switches - ON
+
+Continue with [Cockpit Equipment Checks](Cockpit%20Equipment%20Checks.md). For a cold cockpit that differs from the checklist, compare the [apron and airborne start states](../pilot-handbook/power-and-fuel/apron-and-airborne-start-states.md).
